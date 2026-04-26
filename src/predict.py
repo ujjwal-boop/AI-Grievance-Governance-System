@@ -90,6 +90,25 @@ def correct_spelling(text: str) -> str:
         )
     return text
 
+SYNONYM_MAP = SPELLING_MAP.copy()
+SYNONYM_MAP.update({
+    "bijli": "electricity", "pani": "water", "kachra": "garbage",
+    "rasta": "road", "sadak": "road", "gaddi": "vehicle",
+    "ghante": "hours", "ghanta": "hours", "din": "days", "dino": "days",
+    "gadda": "pothole", "gaddhe": "potholes",
+    "zyada": "heavy", "bohot": "heavy", "bahut": "heavy"
+})
+
+def normalize_and_augment(text):
+    words = text.split()
+    new_words = []
+    for word in words:
+        word_lower = word.lower()
+        new_words.append(word_lower)
+        if word_lower in SYNONYM_MAP:
+            new_words.append(SYNONYM_MAP[word_lower])
+    return " ".join(new_words)
+
 
 def get_wordnet_pos(tag: str):
     """Map POS tag first letter to WordNet POS constant."""
@@ -113,14 +132,17 @@ def preprocess(text: str) -> str:
     # Step 2: Remove ref codes
     text = re.sub(r"\bref[hml]\d+\b", "", text, flags=re.IGNORECASE)
 
-    # Step 3: Spelling correction
-    text = correct_spelling(text)
+    # Step 3: Spelling correction (commented out to keep original words)
+    # text = correct_spelling(text)
 
-    # Step 4: Remove non-alphabetic characters
-    text = re.sub(r"[^a-z\s]", " ", text)
+    # Step 4: Remove non-alphabetic characters (KEEP NUMBERS for duration)
+    text = re.sub(r"[^a-z0-9\s]", " ", text)
 
     # Step 5: Collapse whitespace
     text = re.sub(r"\s+", " ", text).strip()
+    
+    # 5b. Synonym augmentation
+    text = normalize_and_augment(text)
 
     # Step 6: Lemmatize (sentence-level POS tagging — faster)
     tokens = text.split()
@@ -194,6 +216,19 @@ print(f"  Priority classes : {list(pri_model.classes_)}")
 #  - max of that array = confidence score of the winning class
 # ----------------------------------------------------------------
 
+HIGH_SEVERITY = [
+    "heavy", "severe", "urgent", "critical", "emergency",
+    "bahut", "zyada", "bohot", "not working", "completely broken"
+]
+
+MEDIUM_SEVERITY = [
+    "delay", "slow", "issue", "problem", "irregular"
+]
+
+LOW_SEVERITY = [
+    "request", "suggestion", "improvement"
+]
+
 def predict_with_confidence(complaint_text: str):
     """
     Given raw (possibly messy) complaint text:
@@ -209,10 +244,13 @@ def predict_with_confidence(complaint_text: str):
     print("=" * 60)
 
     # --- 3a. Preprocess ---
-    print(f"\n  Raw Input   : {complaint_text}")
     cleaned = preprocess(complaint_text)
-    duration = extract_duration(complaint_text)
-    print(f"  Cleaned     : {cleaned} | Extracted Duration: {duration} days")
+    
+    print(f"\nOriginal: {complaint_text}")
+    print(f"Processed: {cleaned}")
+    
+    duration = extract_duration(cleaned)
+    print(f"Extracted Duration: {duration} days")
 
     # --- 3b. Convert to sentence embedding & combine with duration ---
     embedding = embedder.encode([cleaned])
@@ -223,12 +261,20 @@ def predict_with_confidence(complaint_text: str):
     # ── Model 1: Category (Embeddings Only) ──────────────────────
     cat_pred        = cat_model.predict(embedding)[0]
     cat_proba_array = cat_model.predict_proba(embedding)[0]   # all class probs
-    cat_confidence  = cat_proba_array.max()            # highest prob
+    
+    sorted_cat_probs = np.sort(cat_proba_array)[::-1]
+    top1_cat = sorted_cat_probs[0]
+    top2_cat = sorted_cat_probs[1] if len(sorted_cat_probs) > 1 else 0.0
+    cat_confidence  = top1_cat
 
     # ── Model 2: Priority (Embeddings + Duration) ────────────────
     pri_pred        = pri_model.predict(combined)[0]
     pri_proba_array = pri_model.predict_proba(combined)[0]
-    pri_confidence  = pri_proba_array.max()
+    
+    sorted_pri_probs = np.sort(pri_proba_array)[::-1]
+    top1_pri = sorted_pri_probs[0]
+    top2_pri = sorted_pri_probs[1] if len(sorted_pri_probs) > 1 else 0.0
+    pri_confidence  = top1_pri
     
     rule_applied = ""
     if duration > 2:
@@ -236,28 +282,40 @@ def predict_with_confidence(complaint_text: str):
         pri_confidence = 1.0
         rule_applied = " (Rule Override: Duration > 2 days)"
 
+    # ── Calculate Combined Confidence & Decision ──────────────────
+    margin_category = top1_cat - top2_cat
+    margin_priority = top1_pri - top2_pri
+    margin = (margin_category + margin_priority) / 2.0
+    
+    base_conf = (0.6 * cat_confidence) + (0.4 * pri_confidence)
+    base_conf += 0.1 * margin
+    
+    text_lower = complaint_text.lower()
+    if duration > 0:
+        if duration > 2:
+            base_conf += 0.1
+    else:
+        if any(word in text_lower for word in HIGH_SEVERITY):
+            base_conf += 0.1
+        elif any(word in text_lower for word in MEDIUM_SEVERITY):
+            base_conf += 0.05
+        elif any(word in text_lower for word in LOW_SEVERITY):
+            base_conf -= 0.05
+            
+    final_conf = min(base_conf, 1.0)
+    
+    if final_conf >= 0.75:
+        decision = "AUTO_PROCESS"
+    elif final_conf >= 0.60:
+        decision = "BORDERLINE"
+    else:
+        decision = "SEND_TO_OMBUDSMAN"
+
     # ── Print results ─────────────────────────────────────────────
-    print(f"\n  Category : {cat_pred}")
-    print(f"             Confidence : {cat_confidence * 100:.1f}%")
-
-    print(f"\n  Priority : {pri_pred}{rule_applied}")
-    print(f"             Confidence : {pri_confidence * 100:.1f}%")
-
-    # ── Interpretation ───────────────────────────────────────────
-    #  If confidence < 60% the model is unsure — treat with caution.
-    #  Threshold of 0.60 is a common starting point; adjust as needed.
-    print("\n" + "-" * 60)
-
-    cat_level = "Low confidence  - treat with caution" \
-                if cat_confidence < 0.60 else \
-                "High confidence - reliable prediction"
-
-    pri_level = "Low confidence  - treat with caution" \
-                if pri_confidence < 0.60 else \
-                "High confidence - reliable prediction"
-
-    print(f"  Category assessment : [{cat_level}]")
-    print(f"  Priority assessment : [{pri_level}]")
+    print(f"\nCategory: {cat_pred} (Confidence: {cat_confidence:.2f})")
+    print(f"Priority: {pri_pred}{rule_applied} (Confidence: {pri_confidence:.2f})")
+    print(f"\nFinal Confidence: {final_conf:.2f}")
+    print(f"\nDecision: {decision}")
 
     # ── Full probability breakdown (bonus detail) ─────────────────
     print("\n  -- Full probability breakdown --")
@@ -284,6 +342,12 @@ def predict_with_confidence(complaint_text: str):
 #  STEP 4: Test Execution
 # ----------------------------------------------------------------
 if __name__ == "__main__":
-    test_text = "bijli nahi aa rahi since 3 days"
-    predict_with_confidence(test_text)
+    test_examples = [
+        "bijli nahi aa rahi since 3 days",
+        "kachra bahut zyada hai",
+        "pani problem in my area",
+        "sadak pe gadda hai"
+    ]
+    for text in test_examples:
+        predict_with_confidence(text)
     print("\n[Done] Prediction pipeline with confidence scores complete.")

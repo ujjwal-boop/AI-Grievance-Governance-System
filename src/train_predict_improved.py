@@ -83,6 +83,18 @@ def normalize_text(text: str) -> str:
         text = re.sub(r"\b" + re.escape(wrong) + r"\b", right, text, flags=re.IGNORECASE)
     return text
 
+SYNONYM_MAP = NORMALIZATION_MAP
+
+def normalize_and_augment(text):
+    words = text.split()
+    new_words = []
+    for word in words:
+        word_lower = word.lower()
+        new_words.append(word_lower)
+        if word_lower in SYNONYM_MAP:
+            new_words.append(SYNONYM_MAP[word_lower])
+    return " ".join(new_words)
+
 def get_wordnet_pos(tag: str):
     """Map POS tag first letter to WordNet POS constant."""
     tag_map = {"J": wordnet.ADJ, "V": wordnet.VERB, "R": wordnet.ADV}
@@ -101,8 +113,8 @@ def preprocess(text: str) -> str:
     # 2. Remove reference codes (e.g., RefH123)
     text = re.sub(r"\bref[hml]\d+\b", "", text, flags=re.IGNORECASE)
 
-    # 3. Apply normalization map
-    text = normalize_text(text)
+    # 3. Apply normalization map (Commented out to keep original words as per instructions)
+    # text = normalize_text(text)
 
     # 4. Remove punctuation but KEEP letters AND NUMBERS [a-z0-9]
     # Keeping numbers is crucial so "3 days" isn't reduced to just "days"
@@ -110,6 +122,9 @@ def preprocess(text: str) -> str:
 
     # 5. Collapse extra whitespace
     text = re.sub(r"\s+", " ", text).strip()
+    
+    # 5b. Synonym augmentation
+    text = normalize_and_augment(text)
 
     # 6. Lemmatize (faster sentence-level POS tagging)
     tokens = text.split()
@@ -163,8 +178,8 @@ test_df["clean_text"]  = test_df["complaint_text"].apply(preprocess)
 #  Step 4: Build Embedding-based Models
 # ----------------------------------------------------------------
 print("Extracting duration features...")
-train_durations = train_df["complaint_text"].apply(extract_duration).values.reshape(-1, 1)
-test_durations = test_df["complaint_text"].apply(extract_duration).values.reshape(-1, 1)
+train_durations = train_df["clean_text"].apply(extract_duration).values.reshape(-1, 1)
+test_durations = test_df["clean_text"].apply(extract_duration).values.reshape(-1, 1)
 
 print("Loading sentence-transformers model...")
 embedder = SentenceTransformer('all-MiniLM-L6-v2')
@@ -226,7 +241,10 @@ sample_indices.append(len(test_df)-1)
 for idx in sample_indices:
     raw_text = test_df["complaint_text"].iloc[idx]
     clean_text = test_df["clean_text"].iloc[idx]
-    duration = extract_duration(raw_text)
+    duration = extract_duration(clean_text)
+    
+    print(f"\nOriginal: {raw_text}")
+    print(f"Processed: {clean_text}")
     
     # Get embedding for the single text
     embedding = embedder.encode([clean_text])
