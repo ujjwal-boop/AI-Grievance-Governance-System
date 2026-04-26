@@ -1,0 +1,1501 @@
+complaint_text,category,department,priority,resolution_time_days
+saket delhi severe doctor day plese fix urgently refh,Healthcare,Health Department,High,1
+bopal ahmedabad road damage moderate regular last day refm,Roads & Infrastructure,PWD,Medium,5
+aliganj lucknow waste moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+pothole working shivajinagar pune day situation high impact refh,Roads & Infrastructure,PWD,High,1
+perungudi chennai severe supply problem day please fix urgently refh,Water Supply,Municipal Corporation,High,2
+possible improve doctor shivajinagar pune issue low priority refl,Healthcare,Health Department,Low,10
+routine complaint patia bhubaneswar outage urgent need attention refl,Electricity,Electricity Board,Low,11
+aliganj lucknow severe power cut day please fix urgently refh,Electricity,Electricity Board,High,3
+average level water seen kondapur hyderabad issue pending day refm,Water Supply,Municipal Corporation,Medium,7
+dwarka delhi doctor moderate regular last day refm,Healthcare,Health Department,Medium,5
+karol bagh delhi blackout moderate regular last day refm,Electricity,Electricity Board,Medium,7
+verification completed working nagar chennai day situation high impact refh,Government Services,Revenue Department,High,1
+adyar chennai unhygienic sometimes response slow dely refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+routine complaint noida sector late bus urgent need attention refl,Public Transport,Transport Department,Low,15
+please improve hospital issue howrah maidan minor suggestion refl,Healthcare,Health Department,Low,13
+average level litter seen howrah maidan issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+dump working kondapur hyderabad day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,3
+since day kakadeo kanpur bus servce completely refh,Public Transport,Transport Department,High,3
+dwarka delhi facing blackout continuously day urgent action needed refh,Electricity,Electricity Board,High,3
+small inconvenience thane west littering kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,9
+kakadeo kanpur application pending sometimes response slow delay refm,Government Services,Revenue Department,Medium,4
+small inconvenience patia bhubaneswar litter kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,14
+possible improve supply problem aliganj lucknow issue low priority refl,Water Supply,Municipal Corporation,Low,12
+routine complaint patia bhubaneswar waste urgnt need attention refl,Sanitation & Garbage,Municipal Corporation,Low,13
+routine complaint ashok vihar delhi road damage urgent need attention refl,Roads & Infrastructure,PWD,Low,15
+nerul navi mumbai facing water continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,3
+anna nagar chennai road damage sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,7
+possible improve dump perungudi chennai issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,8
+electricity working mayur vihar delhi day situation high impact refh,Electricity,Electricity Board,High,3
+routine complaint behala kolkata outage urgnt need attention refl,Electricity,Electricity Board,Low,14
+transport style delay service gachibowli hyderabad due littering refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+patia bhubaneswar transport issue moderate regular last day refm,Public Transport,Transport Department,Medium,7
+average level hospital issue seen nerul navi mumbai issue pending day refm,Healthcare,Health Department,Medium,5
+adyar chennai bad road sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,3
+average level supply problem seen miyapur hyderabad issue pending day refm,Water Supply,Municipal Corporation,Medium,6
+howrah maidan bad road sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,6
+sector gurugram facing portal status stuck continuously day urgnt action needed refh,Government Services,Revenue Department,High,1
+bus delay working shivajinagar pune day situation high impact refh,Public Transport,Transport Department,High,2
+mayur vihar delhi record mismatch sometimes response slow delay refm,Government Services,Revenue Department,Medium,3
+average level litter seen mayur vihar delhi issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+routine complaint kothrud pune token generated urgent need attention refl,Government Services,Revenue Department,Low,9
+hinjewadi pune medical problem moderate regular last day refm,Healthcare,Health Department,Medium,5
+transport style delay service perungudi chennai due hospital issue refm,Healthcare,Health Department,Medium,5
+average level water shortage seen saket delhi issue pending day refm,Water Supply,Municipal Corporation,Medium,5
+small inconvenience viman nagar pune voltage issue kindly review refl,Electricity,Electricity Board,Low,9
+since day kondapur hyderabad doctor service completely refh,Healthcare,Health Department,High,1
+kothrud pune severe appointment slot delay day please fix urgently refh,Government Services,Revenue Department,High,1
+possible improve bad road hinjewadi pune issue low priority refl,Roads & Infrastructure,PWD,Low,11
+howrah maidan severe trash day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,2
+dwarka delhi certificate updated sometimes response slow delay refm,Government Services,Revenue Department,Medium,5
+small inconvenience bopal ahmedabad hospital issue kindly review refl,Healthcare,Health Department,Low,9
+average level medical problem seen nagar chennai issue pending day refm,Healthcare,Health Department,Medium,4
+transport style delay service indiranagar bengaluru due application pending refm,Government Services,Revenue Department,Medium,3
+appointment slot delay working viman nagar pune day situation high impact refh,Government Services,Revenue Department,High,1
+small inconvenience kothrud pune outage kindly review refl,Electricity,Electricity Board,Low,8
+laxmi nagar delhi medical problem moderate regular last day refm,Healthcare,Health Department,Medium,4
+gachibowli hyderabad voltage issue moderate regular last day refm,Electricity,Electricity Board,Medium,7
+mayur vihar delhi portal status stuck sometimes response slow delay refm,Government Services,Revenue Department,Medium,4
+please improve portal status stuck indiranagar bengaluru minor suggestion refl,Government Services,Revenue Department,Low,9
+possible improve supply problem gomti nagar lucknow issue low priority refl,Water Supply,Municipal Corporation,Low,14
+shivajinagar pune dumping sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+adyar chennai severe water shortage day please fix urgently refh,Water Supply,Municipal Corporation,High,3
+average level bus seen adyar chennai issue pending day refm,Public Transport,Transport Department,Medium,7
+small inconvenience sector gurugram dirty kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,7
+rajendra nagar patna facing transport issue continuously day urgent action needed refh,Public Transport,Transport Department,High,1
+salt lake kolkata severe dump day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,1
+karol bagh delhi litter moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+since day civil line prayagraj doctor service completely refh,Healthcare,Health Department,High,1
+please improve outage perungudi chennai minor suggestion refl,Electricity,Electricity Board,Low,12
+transport style delay service howrah maidan due hospital issue refm,Healthcare,Health Department,Medium,5
+since day viman nagar pune dump service completely refh,Sanitation & Garbage,Municipal Corporation,High,1
+possible improve hospital isssue dwarka delhi issue low priority refl,Healthcare,Health Department,Low,15
+aliganj lucknow blackout sometimes response slow delay refm,Electricity,Electricity Board,Medium,4
+since day ameerpet hyderabad power cut service completely refh,Electricity,Electricity Board,High,2
+please improve transport issue kondapur hyderabad minor suggestion refl,Public Transport,Transport Department,Low,8
+transport style delay service sector gurugram due water refm,Water Supply,Municipal Corporation,Medium,6
+kothrud pune facing voltage issue continuously day urgent action needed refh,Electricity,Electricity Board,High,3
+please improve littering behala kolkata minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,9
+possible improve transport issue kothrud pune issue low priority refl,Public Transport,Transport Department,Low,8
+routine complaint behala kolkata litter urgnt need attention refl,Sanitation & Garbage,Municipal Corporation,Low,12
+please improve appointment slot delay nagar chennai minor suggestion refl,Government Services,Revenue Department,Low,11
+thane west medical problem sometimes response slow delay refm,Healthcare,Health Department,Medium,6
+nagar chennai road damage moderate regular last day refm,Roads & Infrastructure,PWD,Medium,3
+please improve water kothrud pune minor suggestion refl,Water Supply,Municipal Corporation,Low,7
+small inconvenience karol bagh delhi blackout kindly review refl,Electricity,Electricity Board,Low,10
+ameerpet hyderabad severe water day please fix urgently refh,Water Supply,Municipal Corporation,High,1
+since day aliganj lucknow late bus service completely refh,Public Transport,Transport Department,High,1
+please improve certificate updated bopal ahmedabad minor suggestion refl,Government Services,Revenue Department,Low,7
+transport style delay service bopal ahmedabad due pothole refm,Roads & Infrastructure,PWD,Medium,4
+viman nagar pune waste moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+routine complaint aliganj lucknow hospital issue urgent need attention refl,Healthcare,Health Department,Low,12
+miyapur hyderabad outage sometimes response slow delay refm,Electricity,Electricity Board,Medium,5
+transport style delay service kothrud pune due pothole refm,Roads & Infrastructure,PWD,Medium,4
+civil line prayagraj dumping sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+transport style delay service whitefield bengaluru due token generated refm,Government Services,Revenue Department,Medium,7
+average level littering seen miyapur hyderabad issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+routine complaint aliganj lucknow waste urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,13
+application pending working gachibowli hyderabad day situation high impact refh,Government Services,Revenue Department,High,3
+small inconvenience saket delhi littering kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,9
+routine complaint laxmi nagar delhi water shortage urgent need attention refl,Water Supply,Municipal Corporation,Low,7
+rajendra nagar patna road damage moderate regular last day refm,Roads & Infrastructure,PWD,Medium,5
+bopal ahmedabad transport issue sometimes response slow delay refm,Public Transport,Transport Department,Medium,3
+since day perungudi chennai hospital issue service completely refh,Healthcare,Health Department,High,2
+small inconvenience thane west pipeline issue kindly review refl,Water Supply,Municipal Corporation,Low,7
+possible improve medical problem lalpur ranchi isssue low priority refl,Healthcare,Health Department,Low,11
+average level bus seen dwarka delhi issue pending day refm,Public Transport,Transport Department,Medium,6
+possible improve hospital issue laxmi nagar delhi issue low priority refl,Healthcare,Health Department,Low,8
+ashok vihar delhi pothole sometimes response slow ther delay refm,Roads & Infrastructure,PWD,Medium,4
+please improve bus shivajinagar pune minor suggestion refl,Public Transport,Transport Department,Low,12
+karol bagh delhi pothole sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,5
+small inconvenience miyapur hyderabad hospital issue kindly review refl,Healthcare,Health Department,Low,14
+routine complaint kondapur hyderabad broken road urgent need attention refl,Roads & Infrastructure,PWD,Low,8
+pothole working nagar chennai day situation high impact refh,Roads & Infrastructure,PWD,High,1
+small inconvenience viman nagar pune blackout kindly review refl,Electricity,Electricity Board,Low,13
+dumping working indiranagar bengaluru day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,3
+saket delhi facing bus continuously day urgent action needed refh,Public Transport,Transport Department,High,3
+since day viman nagar pune road damage servce completely refh,Roads & Infrastructure,PWD,High,1
+possible improve supply problem karol bagh delhi issue low priority refl,Water Supply,Municipal Corporation,Low,13
+average level road damage seen thane west issue pending day refm,Roads & Infrastructure,PWD,Medium,3
+routine complaint thane west record mismatch urgent need attention refl,Government Services,Revenue Department,Low,14
+shivajinagar pune bad road moderate regular last day refm,Roads & Infrastructure,PWD,Medium,7
+road damage working patia bhubaneswar day situation high impact refh,Roads & Infrastructure,PWD,High,3
+plese improve portal status stuck whitefield bengaluru minor suggestion refl,Government Services,Revenue Department,Low,13
+patia bhubaneswar facing portal status stuck continuously day urgent action needed refh,Government Services,Revenue Department,High,3
+hinjewadi pune transport issue moderate regular last day refm,Public Transport,Transport Department,Medium,5
+possible improve bus delay howrah maidan issue low priority refl,Public Transport,Transport Department,Low,14
+anna nagar chennai doctor moderate regular last day refm,Healthcare,Health Department,Medium,3
+gachibowli hyderabad severe outage day plese fix urgently refh,Electricity,Electricity Board,High,3
+ashok vihar delhi doctor moderate regular last day refm,Healthcare,Health Department,Medium,5
+bad road working ameerpet hyderabad day situation high impact refh,Roads & Infrastructure,PWD,High,1
+please improve hospital issue kothrud pune minor suggestion refl,Healthcare,Health Department,Low,9
+adyar chennai facing bus delay continuously day urgent action needed refh,Public Transport,Transport Department,High,1
+kakadeo kanpur record mismatch sometimes response slow delay refm,Government Services,Revenue Department,Medium,5
+gachibowli hyderabad dirty sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+small inconvenience miyapur hyderabad pothole kindly review refl,Roads & Infrastructure,PWD,Low,7
+kondapur hyderabad electricity sometimes response slow delay refm,Electricity,Electricity Board,Medium,3
+small inconvenience laxmi nagar delhi road damage kindly review refl,Roads & Infrastructure,PWD,Low,9
+possible improve medical problem behala kolkata issue low priority refl,Healthcare,Health Department,Low,12
+dump working kakadeo kanpur day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,1
+viman nagar pune facing broken road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,3
+ashok vihar delhi facing littering continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,1
+average level doctor seen salt lake kolkata isssue pending day refm,Healthcare,Health Department,Medium,4
+possible improve water shortage gomti nagar lucknow isssue low priority refl,Water Supply,Municipal Corporation,Low,7
+gachibowli hyderabad facing littering continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,1
+transport style delay service aliganj lucknow due verification completed refm,Government Services,Revenue Department,Medium,4
+average level verification completed seen behala kolkata issue pending day refm,Government Services,Revenue Department,Medium,3
+electricity working thane west day situation high impact refh,Electricity,Electricity Board,High,2
+andheri east mumbai late bus sometimes response slow delay refm,Public Transport,Transport Department,Medium,4
+adyar chennai facing hospital issue continuously day urgent action needed refh,Healthcare,Health Department,High,2
+average level medical problem seen mayur vihar delhi issue pending day refm,Healthcare,Health Department,Medium,5
+please improve litter adyar chennai minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,8
+application pending working thane west day situation high impact refh,Government Services,Revenue Department,High,1
+average level supply problem seen nagar chennai issue pending day refm,Water Supply,Municipal Corporation,Medium,7
+possible improve hospital issue salt lake kolkata issue low priority refl,Healthcare,Health Department,Low,12
+saket delhi facing bus delay continuously day urgent action needed refh,Public Transport,Transport Department,High,1
+please improve application pending rajendra nagar patna minor suggestion refl,Government Services,Revenue Department,Low,7
+small inconvenience nerul navi mumbai broken road kindly review refl,Roads & Infrastructure,PWD,Low,7
+littering working adyar chennai day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,1
+supply problem working kothrud pune day situation high impact refh,Water Supply,Municipal Corporation,High,1
+please improve road damage mayur vihar delhi minor suggestion refl,Roads & Infrastructure,PWD,Low,14
+hospital issue working kakadeo kanpur day situation high impact refh,Healthcare,Health Department,High,3
+routine complaint rajendra nagar patna appointment slot delay urgent need attention refl,Government Services,Revenue Department,Low,12
+average level outage seen bopal ahmedabad issue pending day refm,Electricity,Electricity Board,Medium,3
+noida sector power cut moderate regular last day refm,Electricity,Electricity Board,Medium,6
+routine complaint kothrud pune power cut urgent need attention refl,Electricity,Electricity Board,Low,12
+kankarbagh patna bus delay moderate regular last day refm,Public Transport,Transport Department,Medium,6
+since day civil line prayagraj supply problem service completely refh,Water Supply,Municipal Corporation,High,2
+since day behala kolkata outage service completely refh,Electricity,Electricity Board,High,3
+average level outage seen noida sector issue pending day refm,Electricity,Electricity Board,Medium,3
+appointment slot delay working hinjewadi pune day situation high impact refh,Government Services,Revenue Department,High,2
+nerul navi mumbai facing bus delay continuously day urgent action needed refh,Public Transport,Transport Department,High,2
+average level power cut seen perungudi chennai issue pending day refm,Electricity,Electricity Board,Medium,6
+routine complaint bopal ahmedabad electricity urgent need attention refl,Electricity,Electricity Board,Low,8
+aliganj lucknow pipeline issue moderate regular last day refm,Water Supply,Municipal Corporation,Medium,5
+please improve supply problem howrah maidan minor suggestion refl,Water Supply,Municipal Corporation,Low,15
+transport style delay service indiranagar bengaluru due road damage refm,Roads & Infrastructure,PWD,Medium,7
+small inconvenience andheri east mumbai token generated kindly review refl,Government Services,Revenue Department,Low,12
+routine complaint mansarovar jaipur water shortage urgent need attention refl,Water Supply,Municipal Corporation,Low,10
+anna nagar chennai severe bad road day please fix urgently refh,Roads & Infrastructure,PWD,High,3
+mayur vihar delhi severe bus delay day please fix urgently refh,Public Transport,Transport Department,High,1
+whitefield bengaluru supply problem moderate regular last day refm,Water Supply,Municipal Corporation,Medium,4
+adyar chennai severe pipeline issue day please fix urgently refh,Water Supply,Municipal Corporation,High,3
+since day andheri east mumbai portal status stuck service completely refh,Government Services,Revenue Department,High,3
+transport style delay service gomti nagar lucknow due water refm,Water Supply,Municipal Corporation,Medium,3
+possible improve transport issue patia bhubaneswar issue low priority refl,Public Transport,Transport Department,Low,8
+routine complaint nerul navi mumbai late bus urgnt need attention refl,Public Transport,Transport Department,Low,10
+dwarka delhi water moderate regular last day refm,Water Supply,Municipal Corporation,Medium,4
+transport style delay service gomti nagar lucknow due outage refm,Electricity,Electricity Board,Medium,7
+salt lake kolkata doctor moderate regular last day refm,Healthcare,Health Department,Medium,3
+ther transport style delay service thane west due electricity refm,Electricity,Electricity Board,Medium,4
+thane west littering moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+adyar chennai appointment slot delay sometimes response slow delay refm,Government Services,Revenue Department,Medium,5
+please improve bus delay howrah maidan minor suggestion refl,Public Transport,Transport Department,Low,14
+small inconvenience kankarbagh patna late bus kindly review refl,Public Transport,Transport Department,Low,8
+transport style delay service kothrud pune due electricity refm,Electricity,Electricity Board,Medium,3
+small inconvenience banashankari bengaluru record mismatch kindly review refl,Government Services,Revenue Department,Low,10
+transport style delay service anna nagar chennai due application pending refm,Government Services,Revenue Department,Medium,7
+average level power cut seen anna nagar chennai issue pending day refm,Electricity,Electricity Board,Medium,7
+hospital issue working mansarovar jaipur day situation high impact refh,Healthcare,Health Department,High,2
+routine complaint vaishali ghaziabad broken road urgent need attention refl,Roads & Infrastructure,PWD,Low,13
+please improve dump nagar chennai minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,14
+gomti nagar lucknow severe water day please fix urgently refh,Water Supply,Municipal Corporation,High,1
+please improve verification completed mayur vihar delhi minor suggestion refl,Government Services,Revenue Department,Low,9
+possible improve hospital issue bopal ahmedabad issue low priority refl,Healthcare,Health Department,Low,13
+routine complaint hinjewadi pune bus delay urgent need attention refl,Public Transport,Transport Department,Low,9
+small inconvenience ameerpet hyderabad hospital issue kindly review refl,Healthcare,Health Department,Low,8
+whitefield bengaluru verification completed sometimes response slow ther delay refm,Government Services,Revenue Department,Medium,6
+karol bagh delhi severe power cut day please fix urgently refh,Electricity,Electricity Board,High,1
+ashok vihar delhi severe water day please fix urgently refh,Water Supply,Municipal Corporation,High,3
+please improve appointment slot delay shivajinagar pune minor suggestion refl,Government Services,Revenue Department,Low,11
+please improve outage dwarka delhi minor suggestion refl,Electricity,Electricity Board,Low,8
+kakadeo kanpur severe water day please fix urgently refh,Water Supply,Municipal Corporation,High,3
+small inconvenience thane west becuse blackout kindly review refl,Electricity,Electricity Board,Low,8
+since day aliganj lucknow dump service completely refh,Sanitation & Garbage,Municipal Corporation,High,1
+late bus working kondapur hyderabad day situation high impact refh,Public Transport,Transport Department,High,1
+since day laxmi nagar delhi pothole service completely refh,Roads & Infrastructure,PWD,High,1
+please improve outage nerul navi mumbai minor suggestion refl,Electricity,Electricity Board,Low,9
+routine complaint perungudi chennai bus urgent need attention refl,Public Transport,Transport Department,Low,13
+routine complaint thane west hospital issue urgent need attention refl,Healthcare,Health Department,Low,11
+laxmi nagar delhi record mismatch sometimes response slow delay refm,Government Services,Revenue Department,Medium,4
+possible improve pothole dwarka delhi issue low priority refl,Roads & Infrastructure,PWD,Low,13
+please improve trash kondapur hyderabad minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,9
+vaishali ghaziabad facing pipeline issue continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,3
+transport style delay service gachibowli hyderabad due pipeline issue refm,Water Supply,Municipal Corporation,Medium,7
+small inconvenience mayur vihar delhi doctor kindly review refl,Healthcare,Health Department,Low,9
+electricity working nerul navi mumbai day situation high impact refh,Electricity,Electricity Board,High,1
+small inconvenience ameerpet hyderabad late bus kindly review refl,Public Transport,Transport Department,Low,11
+perungudi chennai power cut sometimes response slow delay refm,Electricity,Electricity Board,Medium,4
+kakadeo kanpur severe blackout day please fix urgently refh,Electricity,Electricity Board,High,3
+possible improve certificate updated kondapur hyderabad issue low priority refl,Government Services,Revenue Department,Low,13
+please improve water miyapur hyderabad minor suggestion refl,Water Supply,Municipal Corporation,Low,15
+please improve token generated hinjewadi pune minor suggestion refl,Government Services,Revenue Department,Low,11
+bopal ahmedabad road damage moderate regular last day refm,Roads & Infrastructure,PWD,Medium,3
+vaishali ghaziabad pothole sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,3
+routine complaint kakadeo kanpur medical problem urgent need attention refl,Healthcare,Health Department,Low,15
+please improve litter hinjewadi pune minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,10
+small inconvenience dwarka delhi garbage kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,7
+shivajinagar pune hospital issue sometimes response slow delay refm,Healthcare,Health Department,Medium,5
+outage working karol bagh delhi day situation high impact refh,Electricity,Electricity Board,High,1
+hinjewadi pune facing garbage continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,2
+small inconvenience nerul navi mumbai medical problem kindly review refl,Healthcare,Health Department,Low,8
+average level water shortage seen howrah maidan issue pending day refm,Water Supply,Municipal Corporation,Medium,7
+small inconvenience banashankari bengaluru token generated kindly review refl,Government Services,Revenue Department,Low,10
+average level road damage seen banashankari bengaluru issue pending day refm,Roads & Infrastructure,PWD,Medium,5
+routine complaint noida sector road damage urgent need attention refl,Roads & Infrastructure,PWD,Low,11
+transport style delay service gachibowli hyderabad due pipeline issue refm,Water Supply,Municipal Corporation,Medium,7
+whitefield bengaluru dumping sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+since day mayur vihar delhi dumping service completely refh,Sanitation & Garbage,Municipal Corporation,High,3
+since day vaishali ghaziabad pothole servce completely refh,Roads & Infrastructure,PWD,High,2
+since day behala kolkata hospital isssue service completely refh,Healthcare,Health Department,High,2
+ameerpet hyderabad facing bad road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,3
+small inconvenience saket delhi unhygienic kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,7
+since day thane west blackout service completely refh,Electricity,Electricity Board,High,1
+gomti nagar lucknow facing bus continuously day urgent action needed refh,Public Transport,Transport Department,High,1
+bopal ahmedabad transport issue sometimes response slow delay refm,Public Transport,Transport Department,Medium,5
+please improve token generated kankarbagh patna minor suggestion refl,Government Services,Revenue Department,Low,14
+indiranagar bengaluru voltage issue sometimes response slow delay refm,Electricity,Electricity Board,Medium,6
+behala kolkata severe application pending day please fix urgently refh,Government Services,Revenue Department,High,2
+rajendra nagar patna facing bad road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,3
+average level garbage seen viman nagar pune issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+andheri east mumbai severe bus delay day please fix urgently refh,Public Transport,Transport Department,High,1
+small inconvenience thane west verification completed kindly review refl,Government Services,Revenue Department,Low,11
+please improve pothole kankarbagh patna minor suggestion refl,Roads & Infrastructure,PWD,Low,9
+whitefield bengaluru facing bad road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,2
+ameerpet hyderabad transport issue moderate regular last day refm,Public Transport,Transport Department,Medium,6
+small inconvenience karol bagh delhi litter kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,9
+adyar chennai water sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,4
+routine complaint kothrud pune doctor urgent need attention refl,Healthcare,Health Department,Low,7
+nagar chennai facing bus delay continuously day urgnt action needed refh,Public Transport,Transport Department,High,1
+since day sector gurugram application pending service completely refh,Government Services,Revenue Department,High,3
+please improve blackout vaishali ghaziabad minor suggestion refl,Electricity,Electricity Board,Low,15
+transport style delay service hinjewadi pune due broken road refm,Roads & Infrastructure,PWD,Medium,5
+andheri east mumbai dirty sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+record mismatch working aliganj lucknow day situation high impact refh,Government Services,Revenue Department,High,2
+perungudi chennai medical problem sometimes response slow delay refm,Healthcare,Health Department,Medium,4
+since day gachibowli hyderabad waste service completely refh,Sanitation & Garbage,Municipal Corporation,High,3
+since day perungudi chennai dump service completely refh,Sanitation & Garbage,Municipal Corporation,High,2
+possible improve bus delay miyapur hyderabad issue low priority refl,Public Transport,Transport Department,Low,8
+average level appointment slot delay seen perungudi chennai isssue pending day refm,Government Services,Revenue Department,Medium,5
+indiranagar bengaluru severe late bus day please fix urgently refh,Public Transport,Transport Department,High,2
+since day gachibowli hyderabad verification completed service completely refh,Government Services,Revenue Department,High,2
+small inconvenience ameerpet hyderabad doctor kindly review refl,Healthcare,Health Department,Low,11
+trash working mansarovar jaipur day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,1
+nagar chennai facing pothole continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,2
+since day dwarka delhi dirty service completely refh,Sanitation & Garbage,Municipal Corporation,High,3
+whitefield bengaluru severe blackout day please fix urgently refh,Electricity,Electricity Board,High,2
+average level bad road seen howrah maidan issue pending day refm,Roads & Infrastructure,PWD,Medium,7
+small inconvenience andheri east mumbai late bus kindly review refl,Public Transport,Transport Department,Low,12
+please improve bus nerul navi mumbai minor suggestion refl,Public Transport,Transport Department,Low,13
+small inconvenience karol bagh delhi certificate updated kindly review refl,Government Services,Revenue Department,Low,10
+average level medical problem seen rajendra nagar patna issue pending day refm,Healthcare,Health Department,Medium,6
+kakadeo kanpur water shortage sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,4
+shivajinagar pune facing blackout continuously day urgent action needed refh,Electricity,Electricity Board,High,1
+routine complaint noida sector verification completed urgent need attention refl,Government Services,Revenue Department,Low,10
+civil line prayagraj facing appointment slot delay continuously day urgent action needed refh,Government Services,Revenue Department,High,1
+blackout working patia bhubaneswar day situation high impact refh,Electricity,Electricity Board,High,2
+perungudi chennai bus delay sometimes response slow delay refm,Public Transport,Transport Department,Medium,4
+please improve doctor noida sector minor suggestion refl,Healthcare,Health Department,Low,15
+since day rajendra nagar patna transport issue service completely refh,Public Transport,Transport Department,High,3
+possible improve doctor whitefield bengaluru issue low priority refl,Healthcare,Health Department,Low,12
+average level certificate updated seen nagar chennai issue pending day refm,Government Services,Revenue Department,Medium,3
+howrah maidan severe water shortage day plese fix urgently refh,Water Supply,Municipal Corporation,High,2
+sector gurugram power cut sometimes response slow delay refm,Electricity,Electricity Board,Medium,5
+small inconvenience saket delhi verification completed kindly review refl,Government Services,Revenue Department,Low,14
+routine complaint karol bagh delhi water shortage urgent need attention refl,Water Supply,Municipal Corporation,Low,7
+please improve medical problem nerul navi mumbai minor suggestion refl,Healthcare,Health Department,Low,12
+banashankari bengaluru water moderate regular last day refm,Water Supply,Municipal Corporation,Medium,3
+routine complaint indiranagar bengaluru pothole urgent need attention refl,Roads & Infrastructure,PWD,Low,9
+kothrud pune litter sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+dwarka delhi facing certificate updated continuously day urgent action needed refh,Government Services,Revenue Department,High,1
+since day adyar chennai bus service completely refh,Public Transport,Transport Department,High,2
+possible improve pothole karol bagh delhi issue low priority refl,Roads & Infrastructure,PWD,Low,13
+dwarka delhi facing supply problem continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,1
+salt lake kolkata facing broken road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,1
+miyapur hyderabad facing token generated continuously day urgent action needed refh,Government Services,Revenue Department,High,1
+patia bhubaneswar severe bus delay day please fix urgently refh,Public Transport,Transport Department,High,1
+hospital issue working andheri east mumbai day situation high impact refh,Healthcare,Health Department,High,1
+indiranagar bengaluru road damage sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,7
+routine complaint noida sector bad road urgnt need attention refl,Roads & Infrastructure,PWD,Low,9
+average level blackout seen rajendra nagar patna issue pending day refm,Electricity,Electricity Board,Medium,4
+adyar chennai facing garbage continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,2
+since day karol bagh delhi water service completely refh,Water Supply,Municipal Corporation,High,1
+perungudi chennai power cut moderate regular last day refm,Electricity,Electricity Board,Medium,7
+perungudi chennai severe water shortage day plese fix urgently refh,Water Supply,Municipal Corporation,High,3
+pipeline issue working ameerpet hyderabad day situation high impact refh,Water Supply,Municipal Corporation,High,2
+thane west severe water shortage day please fix urgently refh,Water Supply,Municipal Corporation,High,2
+behala kolkata facing doctor continuously day urgent action needed refh,Healthcare,Health Department,High,3
+pipeline issue working viman nagar pune day situation high impact refh,Water Supply,Municipal Corporation,High,3
+please improve voltage issue miyapur hyderabad minor suggestion refl,Electricity,Electricity Board,Low,15
+patia bhubaneswar facing supply problem continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,1
+supply problem working civil line prayagraj day situation high impact refh,Water Supply,Municipal Corporation,High,2
+small inconvenience miyapur hyderabad outage kindly review refl,Electricity,Electricity Board,Low,12
+gomti nagar lucknow facing bad road continuously day urgent aciton needed refh,Roads & Infrastructure,PWD,High,1
+average level bus delay seen behala kolkata issue pending day refm,Public Transport,Transport Department,Medium,4
+indiranagar bengaluru dump moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+since day aliganj lucknow appointment slot delay service completely refh,Government Services,Revenue Department,High,2
+thane west severe water shortage day please fix urgently refh,Water Supply,Municipal Corporation,High,2
+possible improve doctor perungudi chennai issue low priority refl,Healthcare,Health Department,Low,14
+since day adyar chennai voltage issue service completely refh,Electricity,Electricity Board,High,3
+kakadeo kanpur power cut moderate regular last day refm,Electricity,Electricity Board,Medium,3
+shivajinagar pune severe appointment slot delay day please fix urgently refh,Government Services,Revenue Department,High,3
+kothrud pune hospital isssue moderate regular last day refm,Healthcare,Health Department,Medium,5
+andheri east mumbai record mismatch moderate regular last day refm,Government Services,Revenue Department,Medium,4
+routine complaint saket delhi blackout urgnt need attention refl,Electricity,Electricity Board,Low,15
+indiranagar bengaluru bad road moderate regular last day refm,Roads & Infrastructure,PWD,Medium,4
+miyapur hyderabad pothole sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,3
+transport style delay service gachibowli hyderabad due bus refm,Public Transport,Transport Department,Medium,3
+small inconvenience indiranagar bengaluru broken road kindly review refl,Roads & Infrastructure,PWD,Low,10
+saket delhi severe road damage day please fix urgently refh,Roads & Infrastructure,PWD,High,2
+bopal ahmedabad littering moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+average level water shortage seen patia bhubaneswar issue pending day refm,Water Supply,Municipal Corporation,Medium,4
+routine complaint perungudi chennai outage urgent need attention refl,Electricity,Electricity Board,Low,10
+ameerpet hyderabad hospital isssue moderate regular last day refm,Healthcare,Health Department,Medium,4
+average level littering seen shivajinagar pune issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+routine complaint hinjewadi pune medical problem urgent need attention refl,Healthcare,Health Department,Low,14
+ashok vihar delhi dump moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+please improve broken road hinjewadi pune minor suggestion refl,Roads & Infrastructure,PWD,Low,15
+routine complaint hinjewadi pune transport issue urgent need attention refl,Public Transport,Transport Department,Low,14
+kothrud pune water shortage sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,4
+dump working patia bhubaneswar day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,3
+average level power cut seen whitefield bengaluru issue pending day refm,Electricity,Electricity Board,Medium,6
+ashok vihar delhi medical problem sometimes response slow delay refm,Healthcare,Health Department,Medium,5
+routine complaint kakadeo kanpur late bus urgent need attention refl,Public Transport,Transport Department,Low,14
+road damage working gachibowli hyderabad day situation high impact refh,Roads & Infrastructure,PWD,High,3
+rajendra nagar patna litter sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+average level appointment slot delay seen nagar chennai issue pending day refm,Government Services,Revenue Department,Medium,4
+possible improve dumping civil line prayagraj issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,10
+please improve bad road banashankari bengaluru minor suggestion refl,Roads & Infrastructure,PWD,Low,15
+anna nagar chennai facing bus delay continuously day urgent action needed refh,Public Transport,Transport Department,High,2
+average level late bus seen indiranagar bengaluru isssue pending day refm,Public Transport,Transport Department,Medium,4
+transport style delay service adyar chennai due certificate updated refm,Government Services,Revenue Department,Medium,3
+please improve appointment slot delay kothrud pune minor suggestion refl,Government Services,Revenue Department,Low,15
+since day viman nagar pune supply problem service completely refh,Water Supply,Municipal Corporation,High,1
+viman nagar pune facing water shortage continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,1
+road damage working viman nagar pune day situation high impact refh,Roads & Infrastructure,PWD,High,1
+banashankari bengaluru facing supply problem continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,1
+please improve blackout nerul navi mumbai minor suggestion refl,Electricity,Electricity Board,Low,12
+patia bhubaneswar severe electricity day please fix urgently refh,Electricity,Electricity Board,High,2
+small inconvenience adyar chennai transport issue kindly review refl,Public Transport,Transport Department,Low,9
+howrah maidan doctor sometimes response slow delay refm,Healthcare,Health Department,Medium,7
+small inconvenience civil line prayagraj littering kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,15
+small inconvenience lalpur ranchi broken road kindly review refl,Roads & Infrastructure,PWD,Low,10
+bus delay working gomti nagar lucknow day situation high impact refh,Public Transport,Transport Department,High,3
+small inconvenience laxmi nagar delhi broken road kindly review refl,Roads & Infrastructure,PWD,Low,12
+possible improve bad road howrah maidan issue low priority refl,Roads & Infrastructure,PWD,Low,12
+kondapur hyderabad facing late bus continuously day urgent action needed refh,Public Transport,Transport Department,High,1
+certificate updated working kondapur hyderabad day situation high impact refh,Government Services,Revenue Department,High,2
+late bus working viman nagar pune day situation high impact refh,Public Transport,Transport Department,High,2
+salt lake kolkata supply problem sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,7
+average level water shortage seen behala kolkata issue pending day refm,Water Supply,Municipal Corporation,Medium,4
+small inconvenience behala kolkata water shortage kindly review refl,Water Supply,Municipal Corporation,Low,8
+adyar chennai facing bus delay continuously day urgent action needed refh,Public Transport,Transport Department,High,1
+kakadeo kanpur facing pothole continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,2
+routine complaint howrah maidan application pending urgent need attention refl,Government Services,Revenue Department,Low,8
+small inconvenience miyapur hyderabad becuse dumping kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,14
+transport style delay service shivajinagar pune due water shortage refm,Water Supply,Municipal Corporation,Medium,3
+routine complaint rajendra nagar patna bus urgnt need attention refl,Public Transport,Transport Department,Low,13
+transport isssue working kondapur hyderabad day situation high impact refh,Public Transport,Transport Department,High,2
+nerul navi mumbai transport issue sometimes response slow delay refm,Public Transport,Transport Department,Medium,6
+noida sector waste sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+transport style delay service gomti nagar lucknow due power cut refm,Electricity,Electricity Board,Medium,4
+aliganj lucknow facing verification completed continuously day urgent action needed refh,Government Services,Revenue Department,High,2
+littering working noida sector day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,3
+thane west doctor sometimes response slow delay refm,Healthcare,Health Department,Medium,4
+howrah maidan severe appointment slot delay day please fix urgently refh,Government Services,Revenue Department,High,3
+trash working anna nagar chennai day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,3
+miyapur hyderabad facing bus delay continuously day urgent action needed refh,Public Transport,Transport Department,High,3
+transport style delay service vaishali ghaziabad due littering refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+nagar chennai severe medical problem day please fix urgently refh,Healthcare,Health Department,High,1
+litter working kankarbagh patna day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,1
+thane west facing bad road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,3
+laxmi nagar delhi facing bus continuously day urgent action needed refh,Public Transport,Transport Department,High,3
+average level road damage seen perungudi chennai issue pending day refm,Roads & Infrastructure,PWD,Medium,3
+since day kakadeo kanpur appointment slot delay service completely refh,Government Services,Revenue Department,High,2
+whitefield bengaluru facing bad road continuously day urgent aciton needed refh,Roads & Infrastructure,PWD,High,1
+outage working viman nagar pune day situation high impact refh,Electricity,Electricity Board,High,3
+andheri east mumbai facing hospital issue continuously day urgent action needed refh,Healthcare,Health Department,High,1
+kondapur hyderabad facing medical problem continuously day urgent action needed refh,Healthcare,Health Department,High,3
+transport style delay service patia bhubaneswar due bus delay refm,Public Transport,Transport Department,Medium,6
+possible improve pipeline issue whitefield bengaluru issue low priority refl,Water Supply,Municipal Corporation,Low,15
+possible improve water shortage ameerpet hyderabad issue low priority refl,Water Supply,Municipal Corporation,Low,7
+transport style delay service kondapur hyderabad due bad road refm,Roads & Infrastructure,PWD,Medium,4
+small inconvenience mansarovar jaipur pipeline issue kindly review refl,Water Supply,Municipal Corporation,Low,8
+average level trash seen perungudi chennai isssue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+dwarka delhi facing outage continuously day urgent action needed refh,Electricity,Electricity Board,High,2
+kankarbagh patna facing token generated continuously day urgent action needed refh,Government Services,Revenue Department,High,3
+littering working mayur vihar delhi day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,3
+hinjewadi pune facing late bus continuously day urgent action needed refh,Public Transport,Transport Department,High,3
+patia bhubaneswar facing hospital issue continuously day urgent action needed refh,Healthcare,Health Department,High,2
+since day miyapur hyderabad blackout service completely refh,Electricity,Electricity Board,High,1
+aliganj lucknow facing waste continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,1
+hinjewadi pune dumping moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+civil line prayagraj blackout sometimes response slow delay refm,Electricity,Electricity Board,Medium,7
+please improve pipeline issue kankarbagh patna minor suggestion refl,Water Supply,Municipal Corporation,Low,13
+average level hospital issue seen kothrud pune issue pending day refm,Healthcare,Health Department,Medium,4
+small inconvenience kakadeo kanpur late bus kindly review refl,Public Transport,Transport Department,Low,15
+kakadeo kanpur outage sometimes response slow delay refm,Electricity,Electricity Board,Medium,3
+since day dwarka delhi certificate updated service completely refh,Government Services,Revenue Department,High,3
+small inconvenience mansarovar jaipur supply problem kindly review refl,Water Supply,Municipal Corporation,Low,13
+bopal ahmedabad severe application pending day please fix urgently refh,Government Services,Revenue Department,High,2
+since day kakadeo kanpur late bus servce completely refh,Public Transport,Transport Department,High,2
+routine complaint gomti nagar lucknow verification completed urgent need attention refl,Government Services,Revenue Department,Low,14
+average level application pending seen lalpur ranchi issue pending day refm,Government Services,Revenue Department,Medium,7
+since day whitefield bengaluru trash service completely refh,Sanitation & Garbage,Municipal Corporation,High,2
+since day howrah maidan bad road service completely refh,Roads & Infrastructure,PWD,High,2
+routine complaint viman nagar pune dumping urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,15
+routine complaint saket delhi broken road urgent need attention refl,Roads & Infrastructure,PWD,Low,14
+noida sector facing outage continuously day urgnt action needed refh,Electricity,Electricity Board,High,3
+small inconvenience andheri east mumbai pothole kindly review refl,Roads & Infrastructure,PWD,Low,11
+power cut working karol bagh delhi day situation high impact refh,Electricity,Electricity Board,High,3
+since day perungudi chennai water service completely refh,Water Supply,Municipal Corporation,High,3
+karol bagh delhi record mismatch moderate regular last day refm,Government Services,Revenue Department,Medium,7
+since day viman nagar pune electricity service completely refh,Electricity,Electricity Board,High,3
+possible improve bad road banashankari bengaluru issue low priority refl,Roads & Infrastructure,PWD,Low,7
+transport style delay service mayur vihar delhi due road damage refm,Roads & Infrastructure,PWD,Medium,5
+indiranagar bengaluru blackout sometimes response slow delay refm,Electricity,Electricity Board,Medium,3
+lalpur ranchi broken road sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,3
+small inconvenience mansarovar jaipur bad road kindly review refl,Roads & Infrastructure,PWD,Low,9
+miyapur hyderabad facing hospital issue continuously day urgnt action needed refh,Healthcare,Health Department,High,1
+small inconvenience miyapur hyderabad bus kindly review refl,Public Transport,Transport Department,Low,10
+ameerpet hyderabad facing litter continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,3
+water working whitefield bengaluru day situation high impact refh,Water Supply,Municipal Corporation,High,3
+kondapur hyderabad severe outage day please fix urgently refh,Electricity,Electricity Board,High,1
+please improve dump viman nagar pune minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,8
+perungudi chennai supply problem moderate regular last day refm,Water Supply,Municipal Corporation,Medium,7
+since day mansarovar jaipur garbage service completely refh,Sanitation & Garbage,Municipal Corporation,High,1
+littering working karol bagh delhi day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,3
+transport style delay service vaishali ghaziabad due hospital issue refm,Healthcare,Health Department,Medium,6
+since day lalpur ranchi road damage service completely refh,Roads & Infrastructure,PWD,High,1
+routine complaint hinjewadi pune bus delay urgent need attention refl,Public Transport,Transport Department,Low,8
+since day mayur vihar delhi doctor service completely refh,Healthcare,Health Department,High,1
+please improve record mismatch aliganj lucknow minor suggestion refl,Government Services,Revenue Department,Low,15
+average level token generated seen karol bagh delhi issue pending day refm,Government Services,Revenue Department,Medium,7
+routine complaint rajendra nagar patna electricity urgnt need attention refl,Electricity,Electricity Board,Low,11
+patia bhubaneswar severe bus delay day please fix urgently refh,Public Transport,Transport Department,High,3
+please improve road damage laxmi nagar delhi minor suggestion refl,Roads & Infrastructure,PWD,Low,10
+small inconvenience mayur vihar delhi token generated kindly review refl,Government Services,Revenue Department,Low,13
+please improve transport issue salt lake kolkata minor suggestion refl,Public Transport,Transport Department,Low,10
+please improve dump ashok vihar delhi minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,9
+whitefield bengaluru bad road sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,7
+civil line prayagraj facing verification completed continuously day urgent action needed refh,Government Services,Revenue Department,High,2
+viman nagar pune supply problem moderate regular last day refm,Water Supply,Municipal Corporation,Medium,4
+dwarka delhi broken road moderate regular last day refm,Roads & Infrastructure,PWD,Medium,4
+banashankari bengaluru littering moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+routine complaint kankarbagh patna transport issue urgent need attention refl,Public Transport,Transport Department,Low,14
+kothrud pune doctor moderate regular last day refm,Healthcare,Health Department,Medium,5
+perungudi chennai bus sometimes response slow dely refm,Public Transport,Transport Department,Medium,7
+transport style delay servce civil line prayagraj due electricity refm,Electricity,Electricity Board,Medium,3
+small inconvenience viman nagar pune bus kindly review refl,Public Transport,Transport Department,Low,9
+please improve broken road viman nagar pune minor suggestion refl,Roads & Infrastructure,PWD,Low,11
+average level application pending seen kondapur hyderabad issue pending day refm,Government Services,Revenue Department,Medium,3
+small inconvenience nerul navi mumbai water kindly review refl,Water Supply,Municipal Corporation,Low,11
+since day perungudi chennai verification completed service completely refh,Government Services,Revenue Department,High,1
+since day saket delhi road damage service completely refh,Roads & Infrastructure,PWD,High,3
+small inconvenience howrah maidan late bus kindly review refl,Public Transport,Transport Department,Low,12
+dwarka delhi facing medical problem continuously day urgent action needed refh,Healthcare,Health Department,High,2
+transport style delay service gachibowli hyderabad due garbage refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+perungudi chennai application pending moderate regular last day refm,Government Services,Revenue Department,Medium,6
+average level bus delay seen banashankari bengaluru isssue pending day refm,Public Transport,Transport Department,Medium,4
+average level application pending seen hinjewadi pune issue pending day refm,Government Services,Revenue Department,Medium,6
+possible improve broken road ameerpet hyderabad issue low priority refl,Roads & Infrastructure,PWD,Low,9
+transport style delay service salt lake kolkata due water shortage refm,Water Supply,Municipal Corporation,Medium,7
+nagar chennai electricity sometimes response slow delay refm,Electricity,Electricity Board,Medium,7
+average level medical problem seen behala kolkata issue pending day refm,Healthcare,Health Department,Medium,5
+please improve road damage miyapur hyderabad minor suggestion refl,Roads & Infrastructure,PWD,Low,12
+nagar chennai unhygienic moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+transport style delay service salt lake kolkata due pipeline issue refm,Water Supply,Municipal Corporation,Medium,6
+average level bus delay seen shivajinagar pune issue pending day refm,Public Transport,Transport Department,Medium,5
+routine complaint shivajinagar pune record mismatch urgent need attention refl,Government Services,Revenue Department,Low,11
+possible improve broken road sector gurugram issue low priority refl,Roads & Infrastructure,PWD,Low,12
+possible improve water miyapur hyderabad issue low priority refl,Water Supply,Municipal Corporation,Low,14
+transport style delay service howrah maidan due water refm,Water Supply,Municipal Corporation,Medium,4
+average level medical problem seen mayur vihar delhi issue pending day refm,Healthcare,Health Department,Medium,6
+anna nagar chennai voltage issue moderate regular last day refm,Electricity,Electricity Board,Medium,5
+average level dumping seen noida sector issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+routine complaint mayur vihar delhi appointment slot delay urgnt need attention refl,Government Services,Revenue Department,Low,7
+vaishali ghaziabad facing garbage continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,1
+average level water seen kothrud pune issue pending day refm,Water Supply,Municipal Corporation,Medium,4
+aliganj lucknow blackout sometimes response slow delay refm,Electricity,Electricity Board,Medium,7
+possible improve bad road aliganj lucknow issue low priority refl,Roads & Infrastructure,PWD,Low,12
+rajendra nagar patna facing littering continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,1
+transport style delay service gachibowli hyderabad due water shortage refm,Water Supply,Municipal Corporation,Medium,7
+whitefield bengaluru late bus moderate regular last day refm,Public Transport,Transport Department,Medium,4
+thane west facing portal status stuck continuously day urgent action needed refh,Government Services,Revenue Department,High,1
+average level pipeline issue seen saket delhi issue pending day refm,Water Supply,Municipal Corporation,Medium,6
+possible improve power cut gomti nagar lucknow issue low priority refl,Electricity,Electricity Board,Low,14
+small inconvenience viman nagar pune blackout kindly review refl,Electricity,Electricity Board,Low,13
+small inconvenience nerul navi mumbai certificate updated kindly review refl,Government Services,Revenue Department,Low,11
+since day gomti nagar lucknow voltage issue service completely refh,Electricity,Electricity Board,High,1
+since day bopal ahmedabad late bus service completely refh,Public Transport,Transport Department,High,1
+routine complaint civil line prayagraj litter urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,14
+bus working kankarbagh patna day situation high impact refh,Public Transport,Transport Department,High,3
+laxmi nagar delhi severe supply problem day please fix urgently refh,Water Supply,Municipal Corporation,High,2
+possible improve bus hinjewadi pune issue low priority refl,Public Transport,Transport Department,Low,13
+since day lalpur ranchi dump service completely refh,Sanitation & Garbage,Municipal Corporation,High,2
+possible improve verification completed karol bagh delhi issue low priority refl,Government Services,Revenue Department,Low,10
+transport style delay service hinjewadi pune due hospital issue refm,Healthcare,Health Department,Medium,5
+average level transport issue seen kakadeo kanpur issue pending day refm,Public Transport,Transport Department,Medium,7
+laxmi nagar delhi facing outage continuously day urgent action needed refh,Electricity,Electricity Board,High,3
+blackout working nerul navi mumbai day situation high impact refh,Electricity,Electricity Board,High,2
+andheri east mumbai facing medical problem continuously day urgent action needed refh,Healthcare,Health Department,High,2
+pipeline issue working andheri east mumbai day situation high impact refh,Water Supply,Municipal Corporation,High,3
+please improve dirty perungudi chennai minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,15
+average level record mismatch seen shivajinagar pune issue pending day refm,Government Services,Revenue Department,Medium,6
+doctor working noida sector day situation high impact refh,Healthcare,Health Department,High,1
+possible improve water shortage kondapur hyderabad issue low priority refl,Water Supply,Municipal Corporation,Low,14
+possible improve water shortage kothrud pune issue low priority refl,Water Supply,Municipal Corporation,Low,14
+routine complaint indiranagar bengaluru litter urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,13
+nerul navi mumbai dumping moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+small inconvenience salt lake kolkata pipeline issue kindly review refl,Water Supply,Municipal Corporation,Low,9
+possible improve littering nerul navi mumbai issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,8
+average level bus seen behala kolkata issue pending day refm,Public Transport,Transport Department,Medium,5
+please improve electricity thane west minor suggestion refl,Electricity,Electricity Board,Low,9
+water working bopal ahmedabad day situation high impact refh,Water Supply,Municipal Corporation,High,2
+possible improve late bus kakadeo kanpur issue low priority refl,Public Transport,Transport Department,Low,12
+small inconvenience mansarovar jaipur dirty kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,15
+plese improve doctor perungudi chennai minor suggestion refl,Healthcare,Health Department,Low,10
+nerul navi mumbai late bus sometimes response slow delay refm,Public Transport,Transport Department,Medium,6
+possible improve medical problem ameerpet hyderabad issue low priority refl,Healthcare,Health Department,Low,12
+small inconvenience patia bhubaneswar becuse application pending kindly review refl,Government Services,Revenue Department,Low,7
+gomti nagar lucknow severe pothole day plese fix urgently refh,Roads & Infrastructure,PWD,High,2
+please improve trash perungudi chennai minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,13
+average level late bus seen bopal ahmedabad issue pending day refm,Public Transport,Transport Department,Medium,4
+average level water seen noida sector issue pending day refm,Water Supply,Municipal Corporation,Medium,5
+since day adyar chennai certificate updated service completely refh,Government Services,Revenue Department,High,1
+kondapur hyderabad severe littering day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,1
+behala kolkata severe road damage day please fix urgently refh,Roads & Infrastructure,PWD,High,3
+possible improve hospital issue ameerpet hyderabad issue low priority refl,Healthcare,Health Department,Low,9
+miyapur hyderabad severe dump day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,3
+since day howrah maidan hospital issue service completely refh,Healthcare,Health Department,High,3
+possible improve water bopal ahmedabad issue low priority refl,Water Supply,Municipal Corporation,Low,15
+possible improve water karol bagh delhi issue low priority refl,Water Supply,Municipal Corporation,Low,10
+kondapur hyderabad water moderate regular last day refm,Water Supply,Municipal Corporation,Medium,6
+routine complaint howrah maidan hospital issue urgent need attention refl,Healthcare,Health Department,Low,10
+hospital issue working thane west day situation high impact refh,Healthcare,Health Department,High,3
+please improve bus delay ameerpet hyderabad minor suggestion refl,Public Transport,Transport Department,Low,11
+since day noida sector water service completely refh,Water Supply,Municipal Corporation,High,2
+miyapur hyderabad facing road damage continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,3
+ameerpet hyderabad facing water shortage continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,3
+average level doctor seen aliganj lucknow issue pending day refm,Healthcare,Health Department,Medium,3
+shivajinagar pune medical problem sometimes response slow delay refm,Healthcare,Health Department,Medium,7
+small inconvenience bopal ahmedabad litter kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,10
+miyapur hyderabad voltage issue moderate regular last day refm,Electricity,Electricity Board,Medium,6
+whitefield bengaluru severe supply problem day please fix urgently refh,Water Supply,Municipal Corporation,High,2
+small inconvenience ameerpet hyderabad medical problem kindly review refl,Healthcare,Health Department,Low,9
+whitefield bengaluru water shortage sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,7
+please improve dirty viman nagar pune minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,10
+possible improve voltage issue indiranagar bengaluru issue low priority refl,Electricity,Electricity Board,Low,9
+please improve bad road miyapur hyderabad minor suggestion refl,Roads & Infrastructure,PWD,Low,11
+transport style delay service nerul navi mumbai due hospital issue refm,Healthcare,Health Department,Medium,7
+routine complaint banashankari bengaluru electricity urgent need attention refl,Electricity,Electricity Board,Low,7
+patia bhubaneswar application pending moderate regular last day refm,Government Services,Revenue Department,Medium,6
+possible improve broken road anna nagar chennai issue low priority refl,Roads & Infrastructure,PWD,Low,9
+routine complaint civil line prayagraj broken road urgent need attention refl,Roads & Infrastructure,PWD,Low,7
+since day kothrud pune trash service completely refh,Sanitation & Garbage,Municipal Corporation,High,1
+please improve bad road mansarovar jaipur minor suggestion refl,Roads & Infrastructure,PWD,Low,14
+routine complaint mayur vihar delhi outage urgent need attention refl,Electricity,Electricity Board,Low,14
+average level bus seen hinjewadi pune issue pending day refm,Public Transport,Transport Department,Medium,6
+average level transport issue seen saket delhi issue pending day refm,Public Transport,Transport Department,Medium,3
+routine complaint thane west late bus urgent need attention refl,Public Transport,Transport Department,Low,10
+saket delhi pothole moderate regular last day refm,Roads & Infrastructure,PWD,Medium,7
+please improve water shortage indiranagar bengaluru minor suggestion refl,Water Supply,Municipal Corporation,Low,15
+water shortage working ameerpet hyderabad day situation high impact refh,Water Supply,Municipal Corporation,High,2
+behala kolkata severe bus delay day plese fix urgently refh,Public Transport,Transport Department,High,2
+please improve outage andheri east mumbai minor suggestion refl,Electricity,Electricity Board,Low,11
+transport style delay service shivajinagar pune due token generated refm,Government Services,Revenue Department,Medium,3
+perungudi chennai facing supply problm continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,3
+mayur vihar delhi severe record mismatch day please fix urgently refh,Government Services,Revenue Department,High,2
+salt lake kolkata outage sometimes response slow delay refm,Electricity,Electricity Board,Medium,3
+routine complaint vaishali ghaziabad waste urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,11
+dwarka delhi dump moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+possible improve hospital issue viman nagar pune issue low priority refl,Healthcare,Health Department,Low,7
+transport style delay service dwarka delhi due bus delay refm,Public Transport,Transport Department,Medium,6
+transport style delay service behala kolkata due electricity refm,Electricity,Electricity Board,Medium,3
+gachibowli hyderabad dirty moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+indiranagar bengaluru severe power cut day please fix urgently refh,Electricity,Electricity Board,High,1
+transport style delay service sector gurugram due hospital issue refm,Healthcare,Health Department,Medium,5
+vaishali ghaziabad facing medical problem continuously day urgent action needed refh,Healthcare,Health Department,High,3
+possible improve certificate updated kakadeo kanpur issue low priority refl,Government Services,Revenue Department,Low,10
+transport style delay service patia bhubaneswar due doctor refm,Healthcare,Health Department,Medium,6
+routine complaint anna nagar chennai dumping urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,7
+perungudi chennai power cut moderate regular last day refm,Electricity,Electricity Board,Medium,6
+routine complaint viman nagar pune bad road urgent need attention refl,Roads & Infrastructure,PWD,Low,9
+perungudi chennai facing doctor continuously day urgent action needed refh,Healthcare,Health Department,High,1
+transport style delay service bopal ahmedabad due pipeline isssue refm,Water Supply,Municipal Corporation,Medium,5
+average level medical problem seen whitefield bengaluru issue pending day refm,Healthcare,Health Department,Medium,7
+kankarbagh patna pipeline issue sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,6
+routine complaint patia bhubaneswar outage urgent need attention refl,Electricity,Electricity Board,Low,12
+banashankari bengaluru blackout moderate regular last day refm,Electricity,Electricity Board,Medium,7
+since day miyapur hyderabad certificate updated service completely refh,Government Services,Revenue Department,High,2
+average level bus seen kankarbagh patna issue pending day refm,Public Transport,Transport Department,Medium,4
+rajendra nagar patna severe water shortage day plese fix urgently refh,Water Supply,Municipal Corporation,High,1
+please improve appointment slot delay rajendra nagar patna minor suggestion refl,Government Services,Revenue Department,Low,15
+possible improve blackout andheri east mumbai issue low priority refl,Electricity,Electricity Board,Low,11
+please improve portal status stuck gomti nagar lucknow minor suggestion refl,Government Services,Revenue Department,Low,11
+noida sector severe bus day please fix urgently refh,Public Transport,Transport Department,High,1
+since day nagar chennai doctor service completely refh,Healthcare,Health Department,High,1
+verification completed working kakadeo kanpur day situation high impact refh,Government Services,Revenue Department,High,1
+thane west severe transport issue day please fix urgently refh,Public Transport,Transport Department,High,1
+salt lake kolkata facing water continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,3
+please improve waste salt lake kolkata minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,14
+average level token generated seen andheri east mumbai issue pending day refm,Government Services,Revenue Department,Medium,7
+supply problem working kothrud pune day situation high impact refh,Water Supply,Municipal Corporation,High,3
+please improve voltage issue viman nagar pune minor suggestion refl,Electricity,Electricity Board,Low,12
+since day ashok vihar delhi dumping service completely refh,Sanitation & Garbage,Municipal Corporation,High,2
+routine complaint shivajinagar pune power cut urgent need attention refl,Electricity,Electricity Board,Low,15
+viman nagar pune bus sometimes response slow delay refm,Public Transport,Transport Department,Medium,7
+adyar chennai severe litter day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,1
+average level littering seen kondapur hyderabad issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+bopal ahmedabad pothole moderate regular last day refm,Roads & Infrastructure,PWD,Medium,4
+behala kolkata application pending moderate regular last day refm,Government Services,Revenue Department,Medium,4
+transport style delay service indiranagar bengaluru due water shortage refm,Water Supply,Municipal Corporation,Medium,4
+small inconvenience behala kolkata record mismatch kindly review refl,Government Services,Revenue Department,Low,12
+transport style delay service whitefield bengaluru due road damage refm,Roads & Infrastructure,PWD,Medium,3
+gomti nagar lucknow facing late bus continuously day urgent action needed refh,Public Transport,Transport Department,High,1
+please improve doctor kankarbagh patna minor suggestion refl,Healthcare,Health Department,Low,7
+average level dumping seen howrah maidan issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+hospital issue working ameerpet hyderabad day situation high impact refh,Healthcare,Health Department,High,2
+howrah maidan blackout moderate regular last day refm,Electricity,Electricity Board,Medium,5
+possible improve doctor shivajinagar pune issue low priority refl,Healthcare,Health Department,Low,10
+please improve bus dely anna nagar chennai minor suggestion refl,Public Transport,Transport Department,Low,12
+gachibowli hyderabad severe token generated day plese fix urgently refh,Government Services,Revenue Department,High,1
+saket delhi severe record mismatch day please fix urgently refh,Government Services,Revenue Department,High,2
+kakadeo kanpur token generated moderate regular last day refm,Government Services,Revenue Department,Medium,6
+transport style delay service andheri east mumbai due pipeline issue refm,Water Supply,Municipal Corporation,Medium,7
+transport style delay service civil line prayagraj due doctor refm,Healthcare,Health Department,Medium,6
+blackout working anna nagar chennai day situation high impact refh,Electricity,Electricity Board,High,3
+possible improve doctor shivajinagar pune issue low priority refl,Healthcare,Health Department,Low,15
+karol bagh delhi medical problem moderate regular last day refm,Healthcare,Health Department,Medium,4
+noida sector bus delay moderate regular last day refm,Public Transport,Transport Department,Medium,3
+possible improve bus anna nagar chennai issue low priority refl,Public Transport,Transport Department,Low,12
+since day kakadeo kanpur hospital issue service completely refh,Healthcare,Health Department,High,3
+since day laxmi nagar delhi road damage service completely refh,Roads & Infrastructure,PWD,High,1
+voltage issue working salt lake kolkata day situation high impact refh,Electricity,Electricity Board,High,3
+average level medical problem seen kondapur hyderabad issue pending day refm,Healthcare,Health Department,Medium,7
+routine complaint andheri east mumbai water shortage urgent need attention refl,Water Supply,Municipal Corporation,Low,10
+ameerpet hyderabad facing water shortage continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,1
+please improve medical problem andheri east mumbai minor suggestion refl,Healthcare,Health Department,Low,11
+transport style dely service karol bagh delhi due bus delay refm,Public Transport,Transport Department,Medium,3
+transport style delay service civil line prayagraj due verification completed refm,Government Services,Revenue Department,Medium,3
+small inconvenience gomti nagar lucknow medical problem kindly review refl,Healthcare,Health Department,Low,13
+transport style delay service civil line prayagraj due hospital issue refm,Healthcare,Health Department,Medium,4
+transport style delay service aliganj lucknow due medical problem refm,Healthcare,Health Department,Medium,7
+small inconvenience howrah maidan water shortage kindly review refl,Water Supply,Municipal Corporation,Low,12
+kakadeo kanpur transport issue moderate regular last day refm,Public Transport,Transport Department,Medium,6
+andheri east mumbai facing water shortage continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,3
+hinjewadi pune facing supply problem continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,2
+average level bad road seen patia bhubaneswar issue pending day refm,Roads & Infrastructure,PWD,Medium,3
+behala kolkata severe pipeline isssue day please fix urgently refh,Water Supply,Municipal Corporation,High,2
+nagar chennai facing blackout continuously day urgent action needed refh,Electricity,Electricity Board,High,3
+civil line prayagraj facing doctor continuously day urgent action needed refh,Healthcare,Health Department,High,1
+possible improve dirty viman nagar pune issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,9
+average level doctor seen vaishali ghaziabad isssue pending day refm,Healthcare,Health Department,Medium,4
+banashankari bengaluru facing pipeline issue continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,2
+transport style delay service kondapur hyderabad due dumping refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+certificate updated working kankarbagh patna day situation high impact refh,Government Services,Revenue Department,High,1
+possible improve bus salt lake kolkata issue low priority refl,Public Transport,Transport Department,Low,10
+since day gachibowli hyderabad bus service completely refh,Public Transport,Transport Department,High,2
+adyar chennai hospital issue sometimes response slow delay refm,Healthcare,Health Department,Medium,3
+routine complaint ashok vihar delhi pipeline issue urgent need attention refl,Water Supply,Municipal Corporation,Low,10
+sector gurugram facing road damage continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,2
+voltage issue working perungudi chennai day situation high impact refh,Electricity,Electricity Board,High,2
+transport style delay service civil line prayagraj due medical problem refm,Healthcare,Health Department,Medium,3
+average level medical problem seen bopal ahmedabad issue pending day refm,Healthcare,Health Department,Medium,7
+possible improve supply problem gomti nagar lucknow issue low priority refl,Water Supply,Municipal Corporation,Low,14
+gachibowli hyderabad facing bad road continuously day urgent aciton needed refh,Roads & Infrastructure,PWD,High,1
+pipeline issue working nagar chennai day situation high impact refh,Water Supply,Municipal Corporation,High,2
+small inconvenience kothrud pune power cut kindly review refl,Electricity,Electricity Board,Low,10
+routine complaint viman nagar pune pipeline issue urgent need attention refl,Water Supply,Municipal Corporation,Low,10
+transport style delay service vaishali ghaziabad due supply problem refm,Water Supply,Municipal Corporation,Medium,5
+routine complaint viman nagar pune doctor urgent need attention refl,Healthcare,Health Department,Low,8
+average level transport issue seen lalpur ranchi issue pending day refm,Public Transport,Transport Department,Medium,7
+small inconvenience kankarbagh patna bus kindly review refl,Public Transport,Transport Department,Low,8
+routine complaint sector gurugram record mismatch urgent need attention refl,Government Services,Revenue Department,Low,14
+dump working laxmi nagar delhi day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,1
+small inconvenience gomti nagar lucknow water kindly review refl,Water Supply,Municipal Corporation,Low,9
+since day lalpur ranchi transport issue service completely refh,Public Transport,Transport Department,High,2
+water shortage working nagar chennai day situation high impact refh,Water Supply,Municipal Corporation,High,3
+doctor working behala kolkata day situation high impact refh,Healthcare,Health Department,High,1
+indiranagar bengaluru severe certificate updated day please fix urgently refh,Government Services,Revenue Department,High,2
+routine complaint patia bhubaneswar outage urgent need attention refl,Electricity,Electricity Board,Low,12
+saket delhi transport issue moderate regular last day refm,Public Transport,Transport Department,Medium,4
+transport style delay service noida sector due electricity refm,Electricity,Electricity Board,Medium,4
+transport style delay service adyar chennai due transport issue refm,Public Transport,Transport Department,Medium,6
+mansarovar jaipur facing bad road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,2
+average level appointment slot delay seen rajendra nagar patna issue pending day refm,Government Services,Revenue Department,Medium,5
+small inconvenience laxmi nagar delhi bad road kindly review refl,Roads & Infrastructure,PWD,Low,12
+routine complaint vaishali ghaziabad dirty urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,12
+transport style delay service kakadeo kanpur due road damage refm,Roads & Infrastructure,PWD,Medium,5
+token generated working ameerpet hyderabad day situation high impact refh,Government Services,Revenue Department,High,3
+gomti nagar lucknow doctor sometimes response slow delay refm,Healthcare,Health Department,Medium,6
+bus working mayur vihar delhi day situation high impact refh,Public Transport,Transport Department,High,3
+average level certificate updated seen nagar chennai issue pending day refm,Government Services,Revenue Department,Medium,3
+since day thane west doctor service completely refh,Healthcare,Health Department,High,2
+transport style delay service saket delhi due transport issue refm,Public Transport,Transport Department,Medium,3
+banashankari bengaluru blackout moderate regular last day refm,Electricity,Electricity Board,Medium,3
+since day rajendra nagar patna water service completely refh,Water Supply,Municipal Corporation,High,2
+dumping working mayur vihar delhi day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,2
+possible improve token generated andheri east mumbai issue low priority refl,Government Services,Revenue Department,Low,12
+possible improve bus delay banashankari bengaluru issue low priority refl,Public Transport,Transport Department,Low,9
+anna nagar chennai facing token generated continuously day urgent action needed refh,Government Services,Revenue Department,High,2
+transport style delay service banashankari bengaluru due blackout refm,Electricity,Electricity Board,Medium,3
+routine complaint adyar chennai token generated urgent need attention refl,Government Services,Revenue Department,Low,7
+viman nagar pune broken road sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,4
+since day nagar chennai blackout service completely refh,Electricity,Electricity Board,High,1
+transport style delay service aliganj lucknow due token generated refm,Government Services,Revenue Department,Medium,3
+rajendra nagar patna garbage moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+please improve power cut patia bhubaneswar minor suggestion refl,Electricity,Electricity Board,Low,10
+howrah maidan broken road moderate regular last day refm,Roads & Infrastructure,PWD,Medium,7
+dwarka delhi litter moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+mayur vihar delhi bad road sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,6
+aliganj lucknow severe litter day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,1
+patia bhubaneswar supply problm moderate regular last day refm,Water Supply,Municipal Corporation,Medium,3
+average level pipeline issue seen rajendra nagar patna issue pending day refm,Water Supply,Municipal Corporation,Medium,3
+transport style delay service kakadeo kanpur due record mismatch refm,Government Services,Revenue Department,Medium,4
+indiranagar bengaluru severe blackout day please fix urgently refh,Electricity,Electricity Board,High,3
+noida sector facing garbage continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,2
+average level appointment slot delay seen kondapur hyderabad issue pending day refm,Government Services,Revenue Department,Medium,7
+banashankari bengaluru facing electricity continuously day urgent action needed refh,Electricity,Electricity Board,High,2
+hospital issue working gachibowli hyderabad day situation high impact refh,Healthcare,Health Department,High,2
+pipeline issue working dwarka delhi day situation high impact refh,Water Supply,Municipal Corporation,High,2
+lalpur ranchi transport issue sometimes response slow delay refm,Public Transport,Transport Department,Medium,4
+hospital issue working dwarka delhi day situation high impact refh,Healthcare,Health Department,High,2
+indiranagar bengaluru facing bus delay continuously day urgent action needed refh,Public Transport,Transport Department,High,2
+laxmi nagar delhi severe appointment slot delay day please fix urgently refh,Government Services,Revenue Department,High,3
+kakadeo kanpur facing late bus continuously day urgent action needed refh,Public Transport,Transport Department,High,3
+please improve garbage anna nagar chennai minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,13
+small inconvenience whitefield bengaluru supply problem kindly review refl,Water Supply,Municipal Corporation,Low,7
+please improve dirty banashankari bengaluru minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,11
+andheri east mumbai medical problem sometimes response slow delay refm,Healthcare,Health Department,Medium,6
+please improve pothole whitefield bengaluru minor suggestion refl,Roads & Infrastructure,PWD,Low,10
+please improve pipeline issue howrah maidan minor suggestion refl,Water Supply,Municipal Corporation,Low,14
+behala kolkata facing hospital issue continuously day urgent action needed refh,Healthcare,Health Department,High,1
+banashankari bengaluru facing doctor continuously day urgent action needed refh,Healthcare,Health Department,High,2
+possible improve litter viman nagar pune issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,8
+routine complaint behala kolkata voltage issue urgent need attention refl,Electricity,Electricity Board,Low,15
+small inconvenience gomti nagar lucknow record mismatch kindly review refl,Government Services,Revenue Department,Low,12
+andheri east mumbai late bus moderate regular last day refm,Public Transport,Transport Department,Medium,5
+routine complaint gachibowli hyderabad token generated urgent need attention refl,Government Services,Revenue Department,Low,8
+voltage issue working andheri east mumbai day situation high impact refh,Electricity,Electricity Board,High,1
+salt lake kolkata severe token generated day please fix urgently refh,Government Services,Revenue Department,High,1
+karol bagh delhi waste moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+please improve water shortage gachibowli hyderabad minor suggestion refl,Water Supply,Municipal Corporation,Low,12
+possible improve verification completed kankarbagh patna isssue low priority refl,Government Services,Revenue Department,Low,13
+average level voltage isssue seen banashankari bengaluru issue pending day refm,Electricity,Electricity Board,Medium,5
+miyapur hyderabad water shortage moderate regular last day refm,Water Supply,Municipal Corporation,Medium,7
+kondapur hyderabad road damage moderate regular last day refm,Roads & Infrastructure,PWD,Medium,6
+possible improve medical problem gachibowli hyderabad issue low priority refl,Healthcare,Health Department,Low,11
+average level trash seen ameerpet hyderabad issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+lalpur ranchi token generated moderate regular last day refm,Government Services,Revenue Department,Medium,4
+average level doctor seen thane west issue pending day refm,Healthcare,Health Department,Medium,5
+transport style delay service whitefield bengaluru due appointment slot delay refm,Government Services,Revenue Department,Medium,5
+routine complaint kakadeo kanpur dumping urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,8
+small inconvenience karol bagh delhi application pending kindly review refl,Government Services,Revenue Department,Low,15
+small inconvenience anna nagar chennai becuse broken road kindly review refl,Roads & Infrastructure,PWD,Low,7
+aliganj lucknow facing hospital issue continuously day urgent action needed refh,Healthcare,Health Department,High,2
+possible improve electricity patia bhubaneswar issue low priority refl,Electricity,Electricity Board,Low,8
+patia bhubaneswar broken road sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,7
+since day perungudi chennai bus delay service completely refh,Public Transport,Transport Department,High,3
+please improve road damage saket delhi minor suggestion refl,Roads & Infrastructure,PWD,Low,14
+possible improve application pending patia bhubaneswar issue low priority refl,Government Services,Revenue Department,Low,11
+routine complaint sector gurugram water shortage urgent need attention refl,Water Supply,Municipal Corporation,Low,12
+small inconvenience lalpur ranchi water kindly review refl,Water Supply,Municipal Corporation,Low,15
+please improve medical problem howrah maidan minor suggestion refl,Healthcare,Health Department,Low,10
+transport style delay service bopal ahmedabad due litter refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+please improve hospital issue rajendra nagar patna minor suggestion refl,Healthcare,Health Department,Low,8
+possible improve bus banashankari bengaluru issue low priority refl,Public Transport,Transport Department,Low,11
+routine complaint bopal ahmedabad bad road urgent need attention refl,Roads & Infrastructure,PWD,Low,7
+possible improve hospital issue nerul navi mumbai issue low priority refl,Healthcare,Health Department,Low,7
+plese improve medical problem kondapur hyderabad minor suggestion refl,Healthcare,Health Department,Low,12
+hinjewadi pune severe voltage issue day please fix urgently refh,Electricity,Electricity Board,High,2
+transport issue working sector gurugram day situation high impact refh,Public Transport,Transport Department,High,3
+vaishali ghaziabad severe blackout day please fix urgently refh,Electricity,Electricity Board,High,3
+since day indiranagar bengaluru doctor service completely refh,Healthcare,Health Department,High,2
+routine complaint anna nagar chennai pipeline isssue urgent need attention refl,Water Supply,Municipal Corporation,Low,13
+possible improve voltage issue laxmi nagar delhi issue low priority refl,Electricity,Electricity Board,Low,9
+dumping working lalpur ranchi day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,2
+possible improve transport issue salt lake kolkata issue low priority refl,Public Transport,Transport Department,Low,11
+routine complaint civil line prayagraj road damage urgent need attention refl,Roads & Infrastructure,PWD,Low,7
+whitefield bengaluru facing electricity continuously day urgent action needed refh,Electricity,Electricity Board,High,3
+average level dirty seen civil line prayagraj issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+bus delay working bopal ahmedabad day situation high impact refh,Public Transport,Transport Department,High,3
+possible improve waste rajendra nagar patna issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,12
+since day miyapur hyderabad garbage servce completely refh,Sanitation & Garbage,Municipal Corporation,High,3
+please improve broken road indiranagar bengaluru minor suggestion refl,Roads & Infrastructure,PWD,Low,11
+since day noida sector water service completely refh,Water Supply,Municipal Corporation,High,3
+plese improve late bus civil line prayagraj minor suggestion refl,Public Transport,Transport Department,Low,15
+civil line prayagraj severe pothole day please fix urgently refh,Roads & Infrastructure,PWD,High,3
+since day kondapur hyderabad bus service completely refh,Public Transport,Transport Department,High,2
+mansarovar jaipur facing medical problem continuously day urgent action needed refh,Healthcare,Health Department,High,3
+laxmi nagar delhi facing bus delay continuously day urgent action needed refh,Public Transport,Transport Department,High,3
+bopal ahmedabad facing transport issue continuously day urgent action needed refh,Public Transport,Transport Department,High,2
+anna nagar chennai severe doctor day please fix urgently refh,Healthcare,Health Department,High,1
+transport style delay service dwarka delhi due power cut refm,Electricity,Electricity Board,Medium,3
+perungudi chennai severe token generated day please fix urgently refh,Government Services,Revenue Department,High,2
+transport style delay service howrah maidan due application pending refm,Government Services,Revenue Department,Medium,7
+hospital issue working aliganj lucknow day situation high impact refh,Healthcare,Health Department,High,2
+please improve pipeline issue miyapur hyderabad minor suggestion refl,Water Supply,Municipal Corporation,Low,11
+average level medical problem seen lalpur ranchi issue pending day refm,Healthcare,Health Department,Medium,6
+civil line prayagraj supply problem moderate regular last day refm,Water Supply,Municipal Corporation,Medium,7
+routine complaint noida sector doctor urgent need attention refl,Healthcare,Health Department,Low,9
+thane west broken road moderate regular last day refm,Roads & Infrastructure,PWD,Medium,6
+please improve blackout gomti nagar lucknow minor suggestion refl,Electricity,Electricity Board,Low,11
+please improve medical problm salt lake kolkata minor suggestion refl,Healthcare,Health Department,Low,11
+perungudi chennai electricity sometimes response slow delay refm,Electricity,Electricity Board,Medium,4
+small inconvenience anna nagar chennai hospital issue kindly review refl,Healthcare,Health Department,Low,13
+howrah maidan severe outage day please fix urgently refh,Electricity,Electricity Board,High,1
+since day banashankari bengaluru blackout service completely refh,Electricity,Electricity Board,High,3
+since day dwarka delhi hospital issue service completely refh,Healthcare,Health Department,High,3
+average level doctor seen gomti nagar lucknow issue pending day refm,Healthcare,Health Department,Medium,6
+outage working thane west day situation high impact refh,Electricity,Electricity Board,High,1
+transport style delay service kondapur hyderabad due bus refm,Public Transport,Transport Department,Medium,5
+rajendra nagar patna facing voltage issue continuously day urgnt action needed refh,Electricity,Electricity Board,High,2
+certificate updated working adyar chennai day situation high impact refh,Government Services,Revenue Department,High,1
+small inconvenience behala kolkata voltage issue kindly review refl,Electricity,Electricity Board,Low,9
+transport style delay service perungudi chennai due broken road refm,Roads & Infrastructure,PWD,Medium,7
+transport style delay service saket delhi due outage refm,Electricity,Electricity Board,Medium,7
+plese improve application pending gachibowli hyderabad minor suggestion refl,Government Services,Revenue Department,Low,8
+small inconvenience anna nagar chennai application pending kindly review refl,Government Services,Revenue Department,Low,11
+aliganj lucknow transport issue sometimes response slow ther delay refm,Public Transport,Transport Department,Medium,5
+dwarka delhi facing medical problem continuously day urgent action needed refh,Healthcare,Health Department,High,1
+andheri east mumbai water shortage sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,4
+average level road damage seen civil line prayagraj issue pending day refm,Roads & Infrastructure,PWD,Medium,7
+small inconvenience nagar chennai littering kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,7
+possible improve transport issue whitefield bengaluru issue low priority refl,Public Transport,Transport Department,Low,10
+routine complaint miyapur hyderabad hospital issue urgent need attention refl,Healthcare,Health Department,Low,13
+please improve water miyapur hyderabad minor suggestion refl,Water Supply,Municipal Corporation,Low,7
+viman nagar pune water moderate regular last day refm,Water Supply,Municipal Corporation,Medium,3
+routine complaint nerul navi mumbai doctor urgent need attention refl,Healthcare,Health Department,Low,8
+please improve waste mansarovar jaipur minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,11
+indiranagar bengaluru bad road moderate regular last day refm,Roads & Infrastructure,PWD,Medium,3
+transport style delay service whitefield bengaluru due medical problem refm,Healthcare,Health Department,Medium,6
+lalpur ranchi application pending sometimes response slow delay refm,Government Services,Revenue Department,Medium,3
+please improve blackout patia bhubaneswar minor suggestion refl,Electricity,Electricity Board,Low,7
+possible improve broken road gachibowli hyderabad issue low priority refl,Roads & Infrastructure,PWD,Low,11
+small inconvenience dwarka delhi supply problem kindly review refl,Water Supply,Municipal Corporation,Low,11
+since day kothrud pune medical problem service completely refh,Healthcare,Health Department,High,3
+gachibowli hyderabad dumping moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+dwarka delhi portal status stuck sometimes response slow delay refm,Government Services,Revenue Department,Medium,4
+small inconvenience adyar chennai bad road kindly review refl,Roads & Infrastructure,PWD,Low,12
+dwarka delhi bus moderate regular last day refm,Public Transport,Transport Department,Medium,5
+average level outage seen miyapur hyderabad issue pending day refm,Electricity,Electricity Board,Medium,7
+please improve token generated anna nagar chennai minor suggestion refl,Government Services,Revenue Department,Low,8
+gachibowli hyderabad facing bad road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,1
+ameerpet hyderabad littering sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+sector gurugram severe electricity day plese fix urgently refh,Electricity,Electricity Board,High,2
+kakadeo kanpur trash moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+possible improve portal status stuck salt lake kolkata issue low priority refl,Government Services,Revenue Department,Low,11
+water shortage working andheri east mumbai day situation high impact refh,Water Supply,Municipal Corporation,High,1
+karol bagh delhi medical problem sometimes response slow delay refm,Healthcare,Health Department,Medium,3
+since day mayur vihar delhi power cut service completely refh,Electricity,Electricity Board,High,1
+since day adyar chennai bus delay service completely refh,Public Transport,Transport Department,High,2
+please improve medical problem rajendra nagar patna minor suggestion refl,Healthcare,Health Department,Low,10
+shivajinagar pune broken road moderate regular last day refm,Roads & Infrastructure,PWD,Medium,6
+average level late bus seen saket delhi isssue pending day refm,Public Transport,Transport Department,Medium,3
+behala kolkata severe late bus day please fix urgently refh,Public Transport,Transport Department,High,3
+routine complaint whitefield bengaluru dump urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,12
+routine complaint nagar chennai application pending urgent need attention refl,Government Services,Revenue Department,Low,11
+average level bus delay seen mayur vihar delhi issue pending day refm,Public Transport,Transport Department,Medium,4
+since day kankarbagh patna bad road service completely refh,Roads & Infrastructure,PWD,High,1
+hinjewadi pune doctor moderate regular last day refm,Healthcare,Health Department,Medium,6
+kondapur hyderabad severe broken road day please fix urgently refh,Roads & Infrastructure,PWD,High,3
+rajendra nagar patna appointment slot delay sometimes response slow delay refm,Government Services,Revenue Department,Medium,7
+average level dumping seen bopal ahmedabad isssue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+routine complaint andheri east mumbai pipeline issue urgent need attention refl,Water Supply,Municipal Corporation,Low,13
+small inconvenience laxmi nagar delhi verification completed kindly review refl,Government Services,Revenue Department,Low,9
+voltage isssue working dwarka delhi day situation high impact refh,Electricity,Electricity Board,High,2
+possible improve medical problem adyar chennai issue low priority refl,Healthcare,Health Department,Low,13
+routine complaint howrah maidan late bus urgent need attention refl,Public Transport,Transport Department,Low,7
+average level hospital issue seen salt lake kolkata issue pending day refm,Healthcare,Health Department,Medium,5
+routine complaint nerul navi mumbai electricity urgent need attention refl,Electricity,Electricity Board,Low,13
+pothole working kondapur hyderabad day situation high impact refh,Roads & Infrastructure,PWD,High,3
+howrah maidan severe pothole day please fix urgently refh,Roads & Infrastructure,PWD,High,3
+portal status stuck working lalpur ranchi day situation high impact refh,Government Services,Revenue Department,High,2
+saket delhi litter sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+gomti nagar lucknow severe doctor day please fix urgently refh,Healthcare,Health Department,High,2
+salt lake kolkata portal status stuck moderate regular last day refm,Government Services,Revenue Department,Medium,6
+pipeline isssue working whitefield bengaluru day situation high impact refh,Water Supply,Municipal Corporation,High,1
+sector gurugram certificate updated moderate regular last day refm,Government Services,Revenue Department,Medium,7
+transport style delay service banashankari bengaluru due trash refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+whitefield bengaluru severe littering day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,2
+please improve power cut kakadeo kanpur minor suggestion refl,Electricity,Electricity Board,Low,13
+hospital issue working gachibowli hyderabad day situation high impact refh,Healthcare,Health Department,High,2
+hinjewadi pune outage sometimes response slow delay refm,Electricity,Electricity Board,Medium,7
+small inconvenience mayur vihar delhi outage kindly review refl,Electricity,Electricity Board,Low,14
+please improve electricity viman nagar pune minor suggestion refl,Electricity,Electricity Board,Low,7
+perungudi chennai severe road damage day please fix urgently refh,Roads & Infrastructure,PWD,High,2
+small inconvenience howrah maidan littering kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,11
+miyapur hyderabad severe record mismatch day plese fix urgently refh,Government Services,Revenue Department,High,3
+dump working adyar chennai day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,1
+gomti nagar lucknow water shortage sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,4
+possible improve dumping saket delhi issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,11
+bad road working aliganj lucknow day situation high impact refh,Roads & Infrastructure,PWD,High,3
+since day shivajinagar pune supply problem service completely refh,Water Supply,Municipal Corporation,High,1
+kothrud pune severe bus delay day please fix urgently refh,Public Transport,Transport Department,High,3
+please improve verification completed karol bagh delhi minor suggestion refl,Government Services,Revenue Department,Low,9
+kakadeo kanpur water shortage moderate regular last day refm,Water Supply,Municipal Corporation,Medium,7
+kakadeo kanpur facing pipeline issue continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,1
+aliganj lucknow doctor moderate regular last day refm,Healthcare,Health Department,Medium,6
+mayur vihar delhi facing voltage issue continuously day urgent action needed refh,Electricity,Electricity Board,High,2
+please improve power cut lalpur ranchi minor suggestion refl,Electricity,Electricity Board,Low,7
+broken road working kakadeo kanpur day situation high impact refh,Roads & Infrastructure,PWD,High,2
+possible improve bus delay banashankari bengaluru issue low priority refl,Public Transport,Transport Department,Low,10
+since day miyapur hyderabad road damage servce completely refh,Roads & Infrastructure,PWD,High,1
+laxmi nagar delhi severe water shortage day please fix urgently refh,Water Supply,Municipal Corporation,High,1
+since day aliganj lucknow doctor service completely refh,Healthcare,Health Department,High,3
+shivajinagar pune dumping sometimes response slow dely refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+kothrud pune dumping moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+routine complaint sector gurugram bus urgent need attention refl,Public Transport,Transport Department,Low,10
+bopal ahmedabad facing outage continuously day urgent action needed refh,Electricity,Electricity Board,High,2
+adyar chennai severe water shortage day please fix urgently refh,Water Supply,Municipal Corporation,High,1
+possible improve pothole dwarka delhi issue low priority refl,Roads & Infrastructure,PWD,Low,12
+dwarka delhi facing verification completed continuously day urgent action needed refh,Government Services,Revenue Department,High,1
+vaishali ghaziabad doctor sometimes response slow delay refm,Healthcare,Health Department,Medium,4
+thane west power cut sometimes response slow delay refm,Electricity,Electricity Board,Medium,3
+waste working anna nagar chennai day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,1
+average level doctor seen shivajinagar pune issue pending day refm,Healthcare,Health Department,Medium,5
+karol bagh delhi facing water shortage continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,1
+small inconvenience behala kolkata pothole kindly review refl,Roads & Infrastructure,PWD,Low,14
+please improve bad road ashok vihar delhi minor suggestion refl,Roads & Infrastructure,PWD,Low,8
+routine complaint ameerpet hyderabad supply problem urgent need attention refl,Water Supply,Municipal Corporation,Low,12
+please improve power cut thane west minor suggestion refl,Electricity,Electricity Board,Low,13
+routine complaint rajendra nagar patna unhygienic urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,13
+andheri east mumbai bus delay sometimes response slow delay refm,Public Transport,Transport Department,Medium,7
+please improve electricity mayur vihar delhi minor suggestion refl,Electricity,Electricity Board,Low,15
+aliganj lucknow severe broken road day please fix urgently refh,Roads & Infrastructure,PWD,High,1
+possible improve pipeline isssue rajendra nagar patna issue low priority refl,Water Supply,Municipal Corporation,Low,8
+average level late bus seen ameerpet hyderabad issue pending day refm,Public Transport,Transport Department,Medium,5
+small inconvenience andheri east mumbai supply problem kindly review refl,Water Supply,Municipal Corporation,Low,15
+transport style delay service ameerpet hyderabad due water refm,Water Supply,Municipal Corporation,Medium,7
+average level appointment slot delay seen gomti nagar lucknow issue pending day refm,Government Services,Revenue Department,Medium,6
+please improve bus ashok vihar delhi minor suggestion refl,Public Transport,Transport Department,Low,11
+thane west supply problem sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,7
+record mismatch working karol bagh delhi day situation high impact refh,Government Services,Revenue Department,High,3
+small inconvenience nagar chennai portal status stuck kindly review refl,Government Services,Revenue Department,Low,13
+kakadeo kanpur severe transport issue day please fix urgently refh,Public Transport,Transport Department,High,1
+ther transport style delay service patia bhubaneswar due dump refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+small inconvenience gomti nagar lucknow dirty kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,15
+rajendra nagar patna outage sometimes response slow ther delay refm,Electricity,Electricity Board,Medium,7
+transport style delay service hinjewadi pune due blackout refm,Electricity,Electricity Board,Medium,5
+average level transport issue seen kakadeo kanpur issue pending day refm,Public Transport,Transport Department,Medium,7
+civil line prayagraj facing broken road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,1
+nerul navi mumbai pipeline issue sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,5
+record mismatch working bopal ahmedabad day situation high impact refh,Government Services,Revenue Department,High,2
+possible improve transport issue aliganj lucknow issue low priority refl,Public Transport,Transport Department,Low,10
+average level pothole seen viman nagar pune issue pending day refm,Roads & Infrastructure,PWD,Medium,6
+blackout working banashankari bengaluru day situation high impact refh,Electricity,Electricity Board,High,2
+possible improve hospital issue bopal ahmedabad issue low priority refl,Healthcare,Health Department,Low,13
+water working viman nagar pune day situation high impact refh,Water Supply,Municipal Corporation,High,2
+small inconvenience howrah maidan voltage issue kindly review refl,Electricity,Electricity Board,Low,13
+power cut working kakadeo kanpur day situation high impact refh,Electricity,Electricity Board,High,2
+small inconvenience gachibowli hyderabad bus kindly review refl,Public Transport,Transport Department,Low,7
+small inconvenience vaishali ghaziabad becuse late bus kindly review refl,Public Transport,Transport Department,Low,14
+possible improve bus delay whitefield bengaluru issue low priority refl,Public Transport,Transport Department,Low,12
+possible improve medical problem nerul navi mumbai issue low priority refl,Healthcare,Health Department,Low,8
+please improve outage miyapur hyderabad minor suggestion refl,Electricity,Electricity Board,Low,12
+average level voltage issue seen ameerpet hyderabad issue pending day refm,Electricity,Electricity Board,Medium,5
+banashankari bengaluru severe electricity day please fix urgently refh,Electricity,Electricity Board,High,2
+transport style delay service whitefield bengaluru due blackout refm,Electricity,Electricity Board,Medium,6
+dwarka delhi pipeline issue sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,5
+since day sector gurugram appointment slot delay service completely refh,Government Services,Revenue Department,High,1
+average level water shortage seen rajendra nagar patna issue pending day refm,Water Supply,Municipal Corporation,Medium,5
+possible improve supply problem andheri east mumbai issue low priority refl,Water Supply,Municipal Corporation,Low,7
+since day ashok vihar delhi unhygienic service completely refh,Sanitation & Garbage,Municipal Corporation,High,1
+nagar chennai electricity moderate regular last day refm,Electricity,Electricity Board,Medium,6
+small inconvenience vaishali ghaziabad late bus kindly review refl,Public Transport,Transport Department,Low,9
+routine complaint behala kolkata litter urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,12
+routine complaint kothrud pune doctor urgent need attention refl,Healthcare,Health Department,Low,10
+kakadeo kanpur power cut sometimes response slow delay refm,Electricity,Electricity Board,Medium,3
+medical problem working whitefield bengaluru day situation high impact refh,Healthcare,Health Department,High,1
+since day anna nagar chennai dumping service completely refh,Sanitation & Garbage,Municipal Corporation,High,3
+vaishali ghaziabad water shortage moderate regular last day refm,Water Supply,Municipal Corporation,Medium,6
+gachibowli hyderabad doctor sometimes response slow ther delay refm,Healthcare,Health Department,Medium,3
+mansarovar jaipur facing broken road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,1
+please improve water shortage salt lake kolkata minor suggestion refl,Water Supply,Municipal Corporation,Low,11
+litter working lalpur ranchi day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,2
+small inconvenience lalpur ranchi bus delay kindly review refl,Public Transport,Transport Department,Low,11
+routine complaint nerul navi mumbai garbage urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,11
+sector gurugram facing pothole continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,2
+small inconvenience nagar chennai late bus kindly review refl,Public Transport,Transport Department,Low,8
+possible improve dump indiranagar bengaluru issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,9
+average level bus delay seen behala kolkata issue pending day refm,Public Transport,Transport Department,Medium,6
+sector gurugram transport issue sometimes response slow delay refm,Public Transport,Transport Department,Medium,6
+transport style delay service andheri east mumbai due bus refm,Public Transport,Transport Department,Medium,7
+average level token generated seen andheri east mumbai issue pending day refm,Government Services,Revenue Department,Medium,3
+transport style delay service vaishali ghaziabad due appointment slot delay refm,Government Services,Revenue Department,Medium,7
+vaishali ghaziabad water shortage moderate regular last day refm,Water Supply,Municipal Corporation,Medium,3
+since day kondapur hyderabad record mismatch service completely refh,Government Services,Revenue Department,High,1
+unhygienic working ashok vihar delhi day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,3
+please improve record mismatch behala kolkata minor suggestion refl,Government Services,Revenue Department,Low,14
+average level certificate updated seen sector gurugram issue pending day refm,Government Services,Revenue Department,Medium,4
+nagar chennai dirty sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+routine complaint gachibowli hyderabad blackout urgent need attention refl,Electricity,Electricity Board,Low,11
+miyapur hyderabad facing supply problem continuously day urgnt action needed refh,Water Supply,Municipal Corporation,High,2
+dwarka delhi unhygienic sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+patia bhubaneswar transport issue sometimes response slow delay refm,Public Transport,Transport Department,Medium,4
+please improve broken road ashok vihar delhi minor suggestion refl,Roads & Infrastructure,PWD,Low,10
+aliganj lucknow late bus moderate regular last day refm,Public Transport,Transport Department,Medium,5
+nagar chennai facing medical problem continuously day urgnt action needed refh,Healthcare,Health Department,High,2
+since day mayur vihar delhi supply problm service completely refh,Water Supply,Municipal Corporation,High,1
+small inconvenience karol bagh delhi verification completed kindly review refl,Government Services,Revenue Department,Low,13
+possible improve token generated indiranagar bengaluru issue low priority refl,Government Services,Revenue Department,Low,8
+transport style delay service ameerpet hyderabad due bad road refm,Roads & Infrastructure,PWD,Medium,6
+average level doctor seen viman nagar pune issue pending day refm,Healthcare,Health Department,Medium,4
+since day lalpur ranchi electricity service completely refh,Electricity,Electricity Board,High,2
+transport style delay service shivajinagar pune due pipeline issue refm,Water Supply,Municipal Corporation,Medium,4
+small inconvenience noida sector supply problem kindly review refl,Water Supply,Municipal Corporation,Low,9
+routine complaint gomti nagar lucknow electricity urgent need attention refl,Electricity,Electricity Board,Low,12
+possible improve appointment slot delay indiranagar bengaluru issue low priority refl,Government Services,Revenue Department,Low,8
+please improve medical problem patia bhubaneswar minor suggestion refl,Healthcare,Health Department,Low,8
+small inconvenience mayur vihar delhi medical problem kindly review refl,Healthcare,Health Department,Low,9
+average level road damage seen noida sector issue pending day refm,Roads & Infrastructure,PWD,Medium,5
+since day aliganj lucknow outage service completely refh,Electricity,Electricity Board,High,1
+patia bhubaneswar severe road damage day please fix urgently refh,Roads & Infrastructure,PWD,High,1
+small inconvenience nagar chennai late bus kindly review refl,Public Transport,Transport Department,Low,15
+small inconvenience banashankari bengaluru road damage kindly review refl,Roads & Infrastructure,PWD,Low,9
+average level late bus seen noida sector issue pending day refm,Public Transport,Transport Department,Medium,3
+kothrud pune pipeline issue sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,4
+transport style delay service rajendra nagar patna due broken road refm,Roads & Infrastructure,PWD,Medium,6
+possible improve dirty adyar chennai issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,11
+civil line prayagraj facing bus delay continuously day urgnt action needed refh,Public Transport,Transport Department,High,2
+possible improve unhygienic ameerpet hyderabad issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,15
+please improve unhygienic anna nagar chennai minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,8
+viman nagar pune severe littering day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,2
+andheri east mumbai pothole sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,3
+rajendra nagar patna facing doctor continuously day urgent action needed refh,Healthcare,Health Department,High,3
+since day whitefield bengaluru bus delay service completely refh,Public Transport,Transport Department,High,1
+trash working karol bagh delhi day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,2
+howrah maidan bus sometimes response slow delay refm,Public Transport,Transport Department,Medium,3
+banashankari bengaluru bad road moderate regular last day refm,Roads & Infrastructure,PWD,Medium,6
+hinjewadi pune bus moderate regular last day refm,Public Transport,Transport Department,Medium,7
+average level blackout seen saket delhi issue pending day refm,Electricity,Electricity Board,Medium,4
+dumping working rajendra nagar patna day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,2
+mayur vihar delhi appointment slot delay moderate regular last day refm,Government Services,Revenue Department,Medium,3
+littering working hinjewadi pune day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,3
+please improve hospital issue kondapur hyderabad minor suggestion refl,Healthcare,Health Department,Low,10
+since day banashankari bengaluru garbage service completely refh,Sanitation & Garbage,Municipal Corporation,High,1
+possible improve transport issue patia bhubaneswar issue low priority refl,Public Transport,Transport Department,Low,8
+late bus working nagar chennai day situation high impact refh,Public Transport,Transport Department,High,1
+small inconvenience shivajinagar pune certificate updated kindly review refl,Government Services,Revenue Department,Low,8
+average level medical problem seen kondapur hyderabad issue pending day refm,Healthcare,Health Department,Medium,5
+bopal ahmedabad dirty moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+average level outage seen ameerpet hyderabad issue pending day refm,Electricity,Electricity Board,Medium,5
+nerul navi mumbai severe verification completed day please fix urgently refh,Government Services,Revenue Department,High,3
+possible improve application pending sector gurugram issue low priority refl,Government Services,Revenue Department,Low,11
+karol bagh delhi facing power cut continuously day urgent action needed refh,Electricity,Electricity Board,High,3
+please improve pothole nagar chennai minor suggestion refl,Roads & Infrastructure,PWD,Low,10
+civil line prayagraj verification completed moderate regular last day refm,Government Services,Revenue Department,Medium,4
+please improve water kankarbagh patna minor suggestion refl,Water Supply,Municipal Corporation,Low,10
+average level pipeline issue seen kothrud pune issue pending day refm,Water Supply,Municipal Corporation,Medium,5
+viman nagar pune severe doctor day please fix urgently refh,Healthcare,Health Department,High,2
+mansarovar jaipur facing bad road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,1
+average level water shortage seen thane west issue pending day refm,Water Supply,Municipal Corporation,Medium,5
+pipeline issue working anna nagar chennai day situation high impact refh,Water Supply,Municipal Corporation,High,3
+average level littering seen thane west issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+civil line prayagraj application pending sometimes response slow delay refm,Government Services,Revenue Department,Medium,3
+small inconvenience perungudi chennai supply problem kindly review refl,Water Supply,Municipal Corporation,Low,9
+nagar chennai facing voltage isssue continuously day urgent action needed refh,Electricity,Electricity Board,High,3
+transport style delay service laxmi nagar delhi due late bus refm,Public Transport,Transport Department,Medium,5
+transport style delay service kothrud pune due road damage refm,Roads & Infrastructure,PWD,Medium,6
+small inconvenience kondapur hyderabad broken road kindly review refl,Roads & Infrastructure,PWD,Low,11
+transport style delay service kankarbagh patna due dump refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+routine complaint kakadeo kanpur water shortage urgent need attention refl,Water Supply,Municipal Corporation,Low,10
+perungudi chennai medical problem moderate regular last day refm,Healthcare,Health Department,Medium,5
+voltage issue working indiranagar bengaluru day situation high impact refh,Electricity,Electricity Board,High,2
+kankarbagh patna application pending sometimes response slow delay refm,Government Services,Revenue Department,Medium,3
+possible improve hospital issue mayur vihar delhi issue low priority refl,Healthcare,Health Department,Low,13
+laxmi nagar delhi bad road sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,5
+routine complaint indiranagar bengaluru pothole urgent need attention refl,Roads & Infrastructure,PWD,Low,10
+bopal ahmedabad portal status stuck moderate regular last day refm,Government Services,Revenue Department,Medium,3
+gomti nagar lucknow outage sometimes response slow delay refm,Electricity,Electricity Board,Medium,7
+transport style delay service adyar chennai due broken road refm,Roads & Infrastructure,PWD,Medium,5
+transport style delay service shivajinagar pune due application pending refm,Government Services,Revenue Department,Medium,5
+small inconvenience nagar chennai electricity kindly review refl,Electricity,Electricity Board,Low,14
+patia bhubaneswar facing water shortage continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,1
+possible improve certificate updated behala kolkata issue low priority refl,Government Services,Revenue Department,Low,15
+water shortage working kakadeo kanpur day situation high impact refh,Water Supply,Municipal Corporation,High,3
+routine complaint thane west hospital issue urgent need attention refl,Healthcare,Health Department,Low,15
+routine complaint salt lake kolkata road damage urgent need attention refl,Roads & Infrastructure,PWD,Low,9
+andheri east mumbai broken road sometimes response slow ther delay refm,Roads & Infrastructure,PWD,Medium,7
+small inconvenience viman nagar pune waste kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,13
+plese improve road damage noida sector minor suggestion refl,Roads & Infrastructure,PWD,Low,13
+please improve garbage vaishali ghaziabad minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,12
+blackout working vaishali ghaziabad day situation high impact refh,Electricity,Electricity Board,High,1
+garbage working laxmi nagar delhi day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,2
+dumping working bopal ahmedabad day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,1
+transport style delay service behala kolkata due hospital issue refm,Healthcare,Health Department,Medium,4
+please improve road damage hinjewadi pune minor suggestion refl,Roads & Infrastructure,PWD,Low,11
+small inconvenience miyapur hyderabad supply problem kindly review refl,Water Supply,Municipal Corporation,Low,14
+since day indiranagar bengaluru application pending service completely refh,Government Services,Revenue Department,High,3
+small inconvenience kankarbagh patna transport issue kindly review refl,Public Transport,Transport Department,Low,7
+aliganj lucknow facing voltage issue continuously day urgent action needed refh,Electricity,Electricity Board,High,1
+routine complaint kondapur hyderabad power cut urgent need attention refl,Electricity,Electricity Board,Low,10
+verification completed working mayur vihar delhi day situation high impact refh,Government Services,Revenue Department,High,3
+possible improve littering aliganj lucknow isssue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,14
+supply problem working howrah maidan day situation high impact refh,Water Supply,Municipal Corporation,High,2
+pipeline issue working andheri east mumbai day situation high impact refh,Water Supply,Municipal Corporation,High,2
+kothrud pune severe bad road day plese fix urgently refh,Roads & Infrastructure,PWD,High,2
+routine complaint laxmi nagar delhi bad road urgent need attention refl,Roads & Infrastructure,PWD,Low,7
+small inconvenience kankarbagh patna trash kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,12
+please improve trash kondapur hyderabad minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,12
+small inconvenience karol bagh delhi medical problm kindly review refl,Healthcare,Health Department,Low,7
+transport style delay service ameerpet hyderabad due bus refm,Public Transport,Transport Department,Medium,6
+since day salt lake kolkata bus delay service completely refh,Public Transport,Transport Department,High,3
+please improve dumping mansarovar jaipur minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,10
+behala kolkata water shortage moderate regular last day refm,Water Supply,Municipal Corporation,Medium,6
+please improve record mismatch kothrud pune minor suggestion refl,Government Services,Revenue Department,Low,9
+token generated working noida sector day situation high impact refh,Government Services,Revenue Department,High,2
+kothrud pune severe late bus day please fix urgently refh,Public Transport,Transport Department,High,2
+possible improve pipeline issue nerul navi mumbai issue low priority refl,Water Supply,Municipal Corporation,Low,15
+noida sector pothole sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,6
+transport issue working miyapur hyderabad day situation high impact refh,Public Transport,Transport Department,High,1
+dwarka delhi dumping sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+average level pipeline issue seen bopal ahmedabad issue pending day refm,Water Supply,Municipal Corporation,Medium,5
+patia bhubaneswar late bus moderate regular last day refm,Public Transport,Transport Department,Medium,6
+salt lake kolkata trash moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+indiranagar bengaluru supply problem sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,7
+road damage working nagar chennai day situation high impact refh,Roads & Infrastructure,PWD,High,1
+transport style delay service bopal ahmedabad due outage refm,Electricity,Electricity Board,Medium,3
+average level water shortage seen laxmi nagar delhi issue pending day refm,Water Supply,Municipal Corporation,Medium,4
+since day howrah maidan medical problem service completely refh,Healthcare,Health Department,High,2
+routine complaint patia bhubaneswar verification completed urgent need attention refl,Government Services,Revenue Department,Low,9
+mayur vihar delhi facing outage continuously day urgent action needed refh,Electricity,Electricity Board,High,2
+please improve electricity aliganj lucknow minor suggestion refl,Electricity,Electricity Board,Low,15
+transport style delay service andheri east mumbai due doctor refm,Healthcare,Health Department,Medium,6
+ameerpet hyderabad facing voltage issue continuously day urgent action needed refh,Electricity,Electricity Board,High,2
+please improve broken road sector gurugram minor suggestion refl,Roads & Infrastructure,PWD,Low,8
+since day miyapur hyderabad voltage issue service completely refh,Electricity,Electricity Board,High,1
+since day kakadeo kanpur appointment slot delay service completely refh,Government Services,Revenue Department,High,2
+small inconvenience whitefield bengaluru supply problem kindly review refl,Water Supply,Municipal Corporation,Low,8
+kondapur hyderabad facing electricity continuously day urgent action needed refh,Electricity,Electricity Board,High,3
+anna nagar chennai severe bad road day please fix urgently refh,Roads & Infrastructure,PWD,High,3
+small inconvenience miyapur hyderabad road damage kindly review refl,Roads & Infrastructure,PWD,Low,9
+possible improve late bus lalpur ranchi issue low priority refl,Public Transport,Transport Department,Low,13
+small inconvenience ashok vihar delhi dumping kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,7
+transport issue working patia bhubaneswar day situation high impact refh,Public Transport,Transport Department,High,2
+viman nagar pune facing blackout continuously day urgent action needed refh,Electricity,Electricity Board,High,3
+transport issue working bopal ahmedabad day situation high impact refh,Public Transport,Transport Department,High,3
+since day kankarbagh patna appointment slot delay service completely refh,Government Services,Revenue Department,High,3
+trash working behala kolkata day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,1
+routine complaint shivajinagar pune littering urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,10
+transport style delay service thane west due late bus refm,Public Transport,Transport Department,Medium,6
+behala kolkata severe doctor day please fix urgently refh,Healthcare,Health Department,High,3
+average level unhygienic seen dwarka delhi issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+average level bus delay seen indiranagar bengaluru issue pending day refm,Public Transport,Transport Department,Medium,6
+please improve supply problm bopal ahmedabad minor suggestion refl,Water Supply,Municipal Corporation,Low,12
+routine complaint viman nagar pune trash urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,12
+ameerpet hyderabad severe road damage day please fix urgently refh,Roads & Infrastructure,PWD,High,1
+vaishali ghaziabad facing bad road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,1
+please improve voltage issue shivajinagar pune minor suggestion refl,Electricity,Electricity Board,Low,14
+nagar chennai facing supply problem continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,3
+routine complaint howrah maidan bus delay urgent need attention refl,Public Transport,Transport Department,Low,15
+bopal ahmedabad facing road damage continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,1
+electricity working aliganj lucknow day situation high impact refh,Electricity,Electricity Board,High,2
+transport style delay service kankarbagh patna due bad road refm,Roads & Infrastructure,PWD,Medium,6
+since day bopal ahmedabad verification completed service completely refh,Government Services,Revenue Department,High,2
+possible improve bus delay anna nagar chennai issue low priority refl,Public Transport,Transport Department,Low,13
+possible improve certificate updated rajendra nagar patna isssue low priority refl,Government Services,Revenue Department,Low,15
+miyapur hyderabad facing hospital issue continuously day urgent action needed refh,Healthcare,Health Department,High,1
+adyar chennai severe broken road day please fix urgently refh,Roads & Infrastructure,PWD,High,1
+miyapur hyderabad road damage moderate regular last day refm,Roads & Infrastructure,PWD,Medium,7
+since day howrah maidan transport issue service completely refh,Public Transport,Transport Department,High,3
+possible improve dumping gachibowli hyderabad issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,10
+lalpur ranchi severe road damage day please fix urgently refh,Roads & Infrastructure,PWD,High,1
+average level doctor seen vaishali ghaziabad issue pending day refm,Healthcare,Health Department,Medium,7
+please improve water noida sector minor suggestion refl,Water Supply,Municipal Corporation,Low,7
+possible improve pipeline issue gachibowli hyderabad issue low priority refl,Water Supply,Municipal Corporation,Low,8
+civil line prayagraj severe bad road day please fix urgently refh,Roads & Infrastructure,PWD,High,1
+since day civil line prayagraj hospital issue service completely refh,Healthcare,Health Department,High,1
+please improve pipeline issue viman nagar pune minor suggestion refl,Water Supply,Municipal Corporation,Low,12
+possible improve certificate updated rajendra nagar patna issue low priority refl,Government Services,Revenue Department,Low,13
+transport style delay service nagar chennai due hospital issue refm,Healthcare,Health Department,Medium,3
+application pending working bopal ahmedabad day situation high impact refh,Government Services,Revenue Department,High,2
+since day whitefield bengaluru voltage issue service completely refh,Electricity,Electricity Board,High,2
+record mismatch working miyapur hyderabad day situation high impact refh,Government Services,Revenue Department,High,2
+average level application pending seen bopal ahmedabad issue pending day refm,Government Services,Revenue Department,Medium,5
+kothrud pune severe medical problem day please fix urgently refh,Healthcare,Health Department,High,1
+small inconvenience hinjewadi pune medical problem kindly review refl,Healthcare,Health Department,Low,9
+nerul navi mumbai facing dumping continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,1
+gachibowli hyderabad severe water day please fix urgently refh,Water Supply,Municipal Corporation,High,1
+hinjewadi pune unhygienic sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+please improve power cut nagar chennai minor suggestion refl,Electricity,Electricity Board,Low,7
+doctor working andheri east mumbai day situation high impact refh,Healthcare,Health Department,High,3
+routine complaint viman nagar pune record mismatch urgent need attention refl,Government Services,Revenue Department,Low,8
+routine complaint salt lake kolkata trash urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,13
+kothrud pune severe bus delay day please fix urgently refh,Public Transport,Transport Department,High,1
+salt lake kolkata severe certificate updated day please fix urgently refh,Government Services,Revenue Department,High,3
+please improve voltage issue sector gurugram minor suggestion refl,Electricity,Electricity Board,Low,7
+kakadeo kanpur electricity moderate regular last day refm,Electricity,Electricity Board,Medium,4
+small inconvenience aliganj lucknow waste kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,7
+laxmi nagar delhi facing late bus continuously day urgent action needed refh,Public Transport,Transport Department,High,3
+please improve portal status stuck shivajinagar pune minor suggestion refl,Government Services,Revenue Department,Low,15
+since day bopal ahmedabad late bus service completely refh,Public Transport,Transport Department,High,2
+please improve transport issue kankarbagh patna minor suggestion refl,Public Transport,Transport Department,Low,14
+ameerpet hyderabad garbage moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+possible improve hospital issue howrah maidan issue low priority refl,Healthcare,Health Department,Low,9
+mayur vihar delhi supply problm moderate regular last day refm,Water Supply,Municipal Corporation,Medium,4
+noida sector road damage moderate regular last day refm,Roads & Infrastructure,PWD,Medium,3
+average level bus seen vaishali ghaziabad isssue pending day refm,Public Transport,Transport Department,Medium,5
+average level electricity seen hinjewadi pune issue pending day refm,Electricity,Electricity Board,Medium,6
+patia bhubaneswar severe litter day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,3
+average level verification completed seen karol bagh delhi isssue pending day refm,Government Services,Revenue Department,Medium,3
+small inconvenience mayur vihar delhi bus delay kindly review refl,Public Transport,Transport Department,Low,12
+possible improve bad road whitefield bengaluru issue low priority refl,Roads & Infrastructure,PWD,Low,11
+routine complaint anna nagar chennai water urgent need attention refl,Water Supply,Municipal Corporation,Low,12
+please improve pothole saket delhi minor suggestion refl,Roads & Infrastructure,PWD,Low,12
+possible improve supply problem ashok vihar delhi issue low priority refl,Water Supply,Municipal Corporation,Low,7
+small inconvenience kothrud pune supply problem kindly review refl,Water Supply,Municipal Corporation,Low,10
+average level water shortage seen lalpur ranchi isssue pending day refm,Water Supply,Municipal Corporation,Medium,4
+since day mayur vihar delhi medical problem service completely refh,Healthcare,Health Department,High,2
+hospital issue working banashankari bengaluru day situation high impact refh,Healthcare,Health Department,High,1
+transport style delay servce bopal ahmedabad due bad road refm,Roads & Infrastructure,PWD,Medium,3
+transport style delay service dwarka delhi due unhygienic refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+vaishali ghaziabad facing blackout continuously day urgent action needed refh,Electricity,Electricity Board,High,3
+transport style delay service behala kolkata due littering refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+transport style delay service ameerpet hyderabad due garbage refm,Sanitation & Garbage,Municipal Corporation,Medium,4
+ther transport style delay service vaishali ghaziabad due record mismatch refm,Government Services,Revenue Department,Medium,6
+thane west severe road damage day please fix urgently refh,Roads & Infrastructure,PWD,High,3
+karol bagh delhi supply problem moderate regular last day refm,Water Supply,Municipal Corporation,Medium,5
+since day adyar chennai dumping service completely refh,Sanitation & Garbage,Municipal Corporation,High,1
+average level application pending seen ameerpet hyderabad issue pending day refm,Government Services,Revenue Department,Medium,7
+possible improve broken road aliganj lucknow issue low priority refl,Roads & Infrastructure,PWD,Low,12
+average level outage seen hinjewadi pune issue pending day refm,Electricity,Electricity Board,Medium,7
+small inconvenience ameerpet hyderabad pipeline issue kindly review refl,Water Supply,Municipal Corporation,Low,15
+average level bus delay seen lalpur ranchi issue pending day refm,Public Transport,Transport Department,Medium,3
+please improve waste hinjewadi pune minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,10
+transport style delay service rajendra nagar patna due pothole refm,Roads & Infrastructure,PWD,Medium,5
+since day salt lake kolkata doctor service completely refh,Healthcare,Health Department,High,3
+andheri east mumbai facing verification completed continuously day urgent action needed refh,Government Services,Revenue Department,High,3
+noida sector pothole sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,6
+salt lake kolkata facing water shortage continuously day urgent action needed refh,Water Supply,Municipal Corporation,High,2
+please improve outage salt lake kolkata minor suggestion refl,Electricity,Electricity Board,Low,9
+kothrud pune facing application pending continuously day urgent action needed refh,Government Services,Revenue Department,High,2
+transport style delay service kakadeo kanpur due portal status stuck refm,Government Services,Revenue Department,Medium,7
+possible improve dump kondapur hyderabad issue low priority refl,Sanitation & Garbage,Municipal Corporation,Low,14
+nerul navi mumbai broken road sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,6
+rajendra nagar patna severe transport issue day please fix urgently refh,Public Transport,Transport Department,High,2
+routine complaint viman nagar pune doctor urgent need attention refl,Healthcare,Health Department,Low,11
+average level dirty seen adyar chennai issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+routine complaint laxmi nagar delhi late bus urgent need attention refl,Public Transport,Transport Department,Low,9
+please improve verification completed dwarka delhi minor suggestion refl,Government Services,Revenue Department,Low,11
+perungudi chennai bad road moderate regular last day refm,Roads & Infrastructure,PWD,Medium,6
+please improve verification completed ashok vihar delhi minor suggestion refl,Government Services,Revenue Department,Low,15
+saket delhi outage moderate regular last day refm,Electricity,Electricity Board,Medium,3
+hinjewadi pune hospital issue moderate regular last day refm,Healthcare,Health Department,Medium,7
+routine complaint mansarovar jaipur water urgent need attention refl,Water Supply,Municipal Corporation,Low,13
+small inconvenience hinjewadi pune water shortage kindly review refl,Water Supply,Municipal Corporation,Low,14
+average level water seen ashok vihar delhi issue pending day refm,Water Supply,Municipal Corporation,Medium,7
+andheri east mumbai pipeline issue sometimes response slow delay refm,Water Supply,Municipal Corporation,Medium,5
+viman nagar pune severe doctor day please fix urgently refh,Healthcare,Health Department,High,1
+transport style delay service mayur vihar delhi due power cut refm,Electricity,Electricity Board,Medium,3
+please improve token generated indiranagar bengaluru minor suggestion refl,Government Services,Revenue Department,Low,13
+viman nagar pune transport issue sometimes response slow delay refm,Public Transport,Transport Department,Medium,4
+rajendra nagar patna facing litter continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,3
+possible improve transport issue thane west issue low priority refl,Public Transport,Transport Department,Low,10
+since day thane west pothole service completely refh,Roads & Infrastructure,PWD,High,1
+routine complaint perungudi chennai voltage issue urgent need attention refl,Electricity,Electricity Board,Low,13
+late bus working ashok vihar delhi day situation high impact refh,Public Transport,Transport Department,High,3
+aliganj lucknow severe supply problem day please fix urgently refh,Water Supply,Municipal Corporation,High,3
+please improve unhygienic thane west minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,11
+noida sector severe broken road day please fix urgently refh,Roads & Infrastructure,PWD,High,3
+since day karol bagh delhi transport issue service completely refh,Public Transport,Transport Department,High,1
+please improve bus bopal ahmedabad minor suggestion refl,Public Transport,Transport Department,Low,7
+ashok vihar delhi severe hospital issue day please fix urgently refh,Healthcare,Health Department,High,1
+small inconvenience saket delhi supply problem kindly review refl,Water Supply,Municipal Corporation,Low,13
+routine complaint dwarka delhi pipeline issue urgent need attention refl,Water Supply,Municipal Corporation,Low,8
+dumping working mansarovar jaipur day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,1
+possible improve water shortage sector gurugram issue low priority refl,Water Supply,Municipal Corporation,Low,11
+average level blackout seen thane west issue pending day refm,Electricity,Electricity Board,Medium,3
+howrah maidan hospital issue sometimes response slow delay refm,Healthcare,Health Department,Medium,6
+ashok vihar delhi voltage issue moderate regular last day refm,Electricity,Electricity Board,Medium,4
+possible improve pipeline issue perungudi chennai issue low priority refl,Water Supply,Municipal Corporation,Low,11
+portal status stuck working mayur vihar delhi day situation high impact refh,Government Services,Revenue Department,High,1
+indiranagar bengaluru doctor moderate regular last day refm,Healthcare,Health Department,Medium,4
+transport issue working indiranagar bengaluru day situation high impact refh,Public Transport,Transport Department,High,3
+transport style delay service rajendra nagar patna due medical problem refm,Healthcare,Health Department,Medium,3
+ashok vihar delhi facing littering continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,1
+adyar chennai power cut moderate regular last day refm,Electricity,Electricity Board,Medium,4
+aliganj lucknow severe bus day please fix urgently refh,Public Transport,Transport Department,High,2
+record mismatch working kondapur hyderabad day situation high impact refh,Government Services,Revenue Department,High,3
+routine complaint perungudi chennai trash urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,8
+noida sector doctor moderate regular last day refm,Healthcare,Health Department,Medium,7
+average level pipeline issue seen ameerpet hyderabad issue pending day refm,Water Supply,Municipal Corporation,Medium,5
+karol bagh delhi dirty sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+thane west severe record mismatch day please fix urgently refh,Government Services,Revenue Department,High,3
+transport style delay service viman nagar pune due water refm,Water Supply,Municipal Corporation,Medium,6
+possible improve road damage shivajinagar pune issue low priority refl,Roads & Infrastructure,PWD,Low,13
+hinjewadi pune electricity moderate regular last day refm,Electricity,Electricity Board,Medium,7
+since day kothrud pune pothole service completely refh,Roads & Infrastructure,PWD,High,3
+patia bhubaneswar application pending moderate regular last day refm,Government Services,Revenue Department,Medium,7
+salt lake kolkata pothole moderate regular last day refm,Roads & Infrastructure,PWD,Medium,5
+small inconvenience vaishali ghaziabad supply problem kindly review refl,Water Supply,Municipal Corporation,Low,10
+thane west facing medical problm continuously day urgent action needed refh,Healthcare,Health Department,High,2
+gomti nagar lucknow bus delay sometimes response slow delay refm,Public Transport,Transport Department,Medium,4
+howrah maidan severe voltage issue day please fix urgently refh,Electricity,Electricity Board,High,1
+salt lake kolkata transport issue moderate regular last day refm,Public Transport,Transport Department,Medium,7
+since day kothrud pune hospital issue service completely refh,Healthcare,Health Department,High,3
+transport style dely service shivajinagar pune due appointment slot delay refm,Government Services,Revenue Department,Medium,4
+vaishali ghaziabad severe blackout day please fix urgently refh,Electricity,Electricity Board,High,2
+transport style delay service miyapur hyderabad due water refm,Water Supply,Municipal Corporation,Medium,3
+banashankari bengaluru severe supply problem day please fix urgently refh,Water Supply,Municipal Corporation,High,1
+indiranagar bengaluru facing unhygienic continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,2
+possible improve voltage issue mansarovar jaipur issue low priority refl,Electricity,Electricity Board,Low,7
+vaishali ghaziabad severe unhygienic day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,3
+transport style delay service nerul navi mumbai due appointment slot delay refm,Government Services,Revenue Department,Medium,7
+bopal ahmedabad voltage issue sometimes response slow delay refm,Electricity,Electricity Board,Medium,5
+please improve appointment slot delay kothrud pune minor suggestion refl,Government Services,Revenue Department,Low,13
+since day bopal ahmedabad record mismatch service completely refh,Government Services,Revenue Department,High,2
+plese improve medical problem civil line prayagraj minor suggestion refl,Healthcare,Health Department,Low,12
+routine complaint kakadeo kanpur water shortage urgent need attention refl,Water Supply,Municipal Corporation,Low,8
+transport style delay service banashankari bengaluru due record mismatch refm,Government Services,Revenue Department,Medium,3
+medical problem working banashankari bengaluru day situation high impact refh,Healthcare,Health Department,High,2
+transport style delay service noida sector due appointment slot delay refm,Government Services,Revenue Department,Medium,5
+kakadeo kanpur severe bus day please fix urgently refh,Public Transport,Transport Department,High,2
+please improve voltage issue shivajinagar pune minor suggestion refl,Electricity,Electricity Board,Low,11
+average level medical problem seen viman nagar pune issue pending day refm,Healthcare,Health Department,Medium,5
+indiranagar bengaluru bus delay sometimes response slow ther delay refm,Public Transport,Transport Department,Medium,7
+please improve late bus perungudi chennai minor suggestion refl,Public Transport,Transport Department,Low,13
+average level portal status stuck seen ashok vihar delhi isssue pending day refm,Government Services,Revenue Department,Medium,3
+transport style delay service rajendra nagar patna due bus delay refm,Public Transport,Transport Department,Medium,5
+please improve medical problem hinjewadi pune minor suggestion refl,Healthcare,Health Department,Low,11
+routine complaint sector gurugram late bus urgent need attention refl,Public Transport,Transport Department,Low,13
+transport style delay service kondapur hyderabad due late bus refm,Public Transport,Transport Department,Medium,4
+please improve outage perungudi chennai minor suggestion refl,Electricity,Electricity Board,Low,9
+transport style delay service kondapur hyderabad due blackout refm,Electricity,Electricity Board,Medium,6
+small inconvenience lalpur ranchi doctor kindly review refl,Healthcare,Health Department,Low,15
+average level water seen ashok vihar delhi isssue pending day refm,Water Supply,Municipal Corporation,Medium,3
+small inconvenience karol bagh delhi certificate updated kindly review refl,Government Services,Revenue Department,Low,15
+doctor working laxmi nagar delhi day situation high impact refh,Healthcare,Health Department,High,2
+average level pothole seen banashankari bengaluru issue pending day refm,Roads & Infrastructure,PWD,Medium,6
+sector gurugram blackout moderate regular last day refm,Electricity,Electricity Board,Medium,7
+adyar chennai blackout moderate regular last day refm,Electricity,Electricity Board,Medium,3
+routine complaint noida sector pothole urgent need attention refl,Roads & Infrastructure,PWD,Low,8
+salt lake kolkata dirty moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+transport style delay service anna nagar chennai due outage refm,Electricity,Electricity Board,Medium,5
+since day perungudi chennai medical problem service completely refh,Healthcare,Health Department,High,1
+small inconvenience ashok vihar delhi road damage kindly review refl,Roads & Infrastructure,PWD,Low,7
+mayur vihar delhi unhygienic moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+possible improve pipeline isssue gomti nagar lucknow issue low priority refl,Water Supply,Municipal Corporation,Low,12
+banashankari bengaluru facing blackout continuously day urgent action needed refh,Electricity,Electricity Board,High,3
+since day lalpur ranchi broken road service completely refh,Roads & Infrastructure,PWD,High,1
+small inconvenience sector gurugram bad road kindly review refl,Roads & Infrastructure,PWD,Low,9
+whitefield bengaluru severe waste day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,3
+nerul navi mumbai facing water shortage continuously day urgnt action needed refh,Water Supply,Municipal Corporation,High,2
+routine complaint sector gurugram bad road urgent need attention refl,Roads & Infrastructure,PWD,Low,7
+transport style delay service viman nagar pune due bad road refm,Roads & Infrastructure,PWD,Medium,6
+rajendra nagar patna severe dump day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,3
+since day gachibowli hyderabad pipeline issue service completely refh,Water Supply,Municipal Corporation,High,1
+vaishali ghaziabad facing voltage issue continuously day urgent action needed refh,Electricity,Electricity Board,High,1
+please improve pothole dwarka delhi minor suggestion refl,Roads & Infrastructure,PWD,Low,11
+viman nagar pune transport issue sometimes response slow delay refm,Public Transport,Transport Department,Medium,7
+bad road working civil line prayagraj day situation high impact refh,Roads & Infrastructure,PWD,High,1
+small inconvenience mansarovar jaipur blackout kindly review refl,Electricity,Electricity Board,Low,7
+outage working karol bagh delhi day situation high impact refh,Electricity,Electricity Board,High,3
+routine complaint kondapur hyderabad medical problem urgent need attention refl,Healthcare,Health Department,Low,11
+ameerpet hyderabad hospital issue moderate regular last day refm,Healthcare,Health Department,Medium,6
+possible improve outage lalpur ranchi issue low priority refl,Electricity,Electricity Board,Low,8
+possible improve medical problem patia bhubaneswar issue low priority refl,Healthcare,Health Department,Low,11
+please improve hospital issue salt lake kolkata minor suggestion refl,Healthcare,Health Department,Low,15
+transport style delay servce andheri east mumbai due application pending refm,Government Services,Revenue Department,Medium,5
+please improve blackout anna nagar chennai minor suggestion refl,Electricity,Electricity Board,Low,15
+transport style delay service mayur vihar delhi due pothole refm,Roads & Infrastructure,PWD,Medium,3
+please improve blackout behala kolkata minor suggestion refl,Electricity,Electricity Board,Low,15
+please improve voltage issue kondapur hyderabad minor suggestion refl,Electricity,Electricity Board,Low,15
+average level blackout seen perungudi chennai issue pending day refm,Electricity,Electricity Board,Medium,3
+small inconvenience kondapur hyderabad pothole kindly review refl,Roads & Infrastructure,PWD,Low,15
+routine complaint perungudi chennai garbage urgent need attention refl,Sanitation & Garbage,Municipal Corporation,Low,11
+salt lake kolkata medical problem sometimes response slow delay refm,Healthcare,Health Department,Medium,5
+average level water shortage seen kankarbagh patna issue pending day refm,Water Supply,Municipal Corporation,Medium,3
+please improve broken road kankarbagh patna minor suggestion refl,Roads & Infrastructure,PWD,Low,9
+miyapur hyderabad severe doctor day please fix urgently refh,Healthcare,Health Department,High,2
+please improve pothole adyar chennai minor suggestion refl,Roads & Infrastructure,PWD,Low,14
+kakadeo kanpur severe late bus day please fix urgently refh,Public Transport,Transport Department,High,2
+andheri east mumbai facing unhygienic continuously day urgent action needed refh,Sanitation & Garbage,Municipal Corporation,High,2
+routine complaint miyapur hyderabad late bus urgent need attention refl,Public Transport,Transport Department,Low,8
+please improve waste noida sector minor suggestion refl,Sanitation & Garbage,Municipal Corporation,Low,9
+mayur vihar delhi severe pipeline isssue day please fix urgently refh,Water Supply,Municipal Corporation,High,3
+since day mayur vihar delhi dump service completely refh,Sanitation & Garbage,Municipal Corporation,High,2
+please improve doctor anna nagar chennai minor suggestion refl,Healthcare,Health Department,Low,8
+average level garbage seen ameerpet hyderabad issue pending day refm,Sanitation & Garbage,Municipal Corporation,Medium,3
+karol bagh delhi severe road damage day please fix urgently refh,Roads & Infrastructure,PWD,High,1
+routine complaint karol bagh delhi late bus urgent need attention refl,Public Transport,Transport Department,Low,15
+please improve late bus kondapur hyderabad minor suggestion refl,Public Transport,Transport Department,Low,11
+transport style delay service gomti nagar lucknow due road damage refm,Roads & Infrastructure,PWD,Medium,3
+ashok vihar delhi water moderate regular last day refm,Water Supply,Municipal Corporation,Medium,4
+patia bhubaneswar severe appointment slot delay day please fix urgently refh,Government Services,Revenue Department,High,3
+vaishali ghaziabad severe dumping day please fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,1
+pipeline issue working perungudi chennai day situation high impact refh,Water Supply,Municipal Corporation,High,2
+average level certificate updated seen aliganj lucknow isssue pending day refm,Government Services,Revenue Department,Medium,7
+ameerpet hyderabad severe doctor day please fix urgently refh,Healthcare,Health Department,High,1
+possible improve application pending adyar chennai issue low priority refl,Government Services,Revenue Department,Low,13
+please improve hospital issue nerul navi mumbai minor suggestion refl,Healthcare,Health Department,Low,7
+please improve late bus andheri east mumbai minor suggestion refl,Public Transport,Transport Department,Low,12
+average level bad road seen lalpur ranchi issue pending day refm,Roads & Infrastructure,PWD,Medium,3
+andheri east mumbai unhygienic moderate regular last day refm,Sanitation & Garbage,Municipal Corporation,Medium,7
+small inconvenience laxmi nagar delhi bus delay kindly review refl,Public Transport,Transport Department,Low,13
+road damage working lalpur ranchi day situation high impact refh,Roads & Infrastructure,PWD,High,1
+vaishali ghaziabad late bus moderate regular last day refm,Public Transport,Transport Department,Medium,6
+anna nagar chennai facing road damage continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,2
+saket delhi dumping sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,5
+transport style delay service kankarbagh patna due token generated refm,Government Services,Revenue Department,Medium,5
+routine complaint sector gurugram bus delay urgent need attention refl,Public Transport,Transport Department,Low,13
+miyapur hyderabad severe record mismatch day please fix urgently refh,Government Services,Revenue Department,High,3
+since day banashankari bengaluru transport issue service completely refh,Public Transport,Transport Department,High,1
+ashok vihar delhi bus moderate regular last day refm,Public Transport,Transport Department,Medium,3
+possible improve electricity thane west issue low priority refl,Electricity,Electricity Board,Low,11
+small inconvenience andheri east mumbai medical problm kindly review refl,Healthcare,Health Department,Low,13
+possible improve voltage issue patia bhubaneswar issue low priority refl,Electricity,Electricity Board,Low,14
+hinjewadi pune waste sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,6
+nerul navi mumbai severe trash day plese fix urgently refh,Sanitation & Garbage,Municipal Corporation,High,3
+transport style delay service kakadeo kanpur due token generated refm,Government Services,Revenue Department,Medium,3
+since day bopal ahmedabad pipeline issue service completely refh,Water Supply,Municipal Corporation,High,2
+medical problem working kothrud pune day situation high impact refh,Healthcare,Health Department,High,3
+since day andheri east mumbai medical problem service completely refh,Healthcare,Health Department,High,3
+please improve medical problem karol bagh delhi minor suggestion refl,Healthcare,Health Department,Low,11
+patia bhubaneswar voltage issue moderate regular last day refm,Electricity,Electricity Board,Medium,5
+transport style delay service lalpur ranchi due bus refm,Public Transport,Transport Department,Medium,3
+small inconvenience viman nagar pune broken road kindly review refl,Roads & Infrastructure,PWD,Low,8
+rajendra nagar patna portal status stuck moderate regular last day refm,Government Services,Revenue Department,Medium,4
+routine complaint banashankari bengaluru transport issue urgent need attention refl,Public Transport,Transport Department,Low,10
+rajendra nagar patna severe hospital issue day please fix urgently refh,Healthcare,Health Department,High,1
+since day nagar chennai road damage service completely refh,Roads & Infrastructure,PWD,High,3
+gachibowli hyderabad electricity moderate regular last day refm,Electricity,Electricity Board,Medium,4
+trash working ashok vihar delhi day situation high impact refh,Sanitation & Garbage,Municipal Corporation,High,2
+ashok vihar delhi severe bad road day please fix urgently refh,Roads & Infrastructure,PWD,High,3
+transport issue working indiranagar bengaluru day situation high impact refh,Public Transport,Transport Department,High,1
+verification completed working adyar chennai day situation high impact refh,Government Services,Revenue Department,High,3
+average level road damage seen patia bhubaneswar issue pending day refm,Roads & Infrastructure,PWD,Medium,4
+transport style delay service miyapur hyderabad due application pending refm,Government Services,Revenue Department,Medium,6
+small inconvenience whitefield bengaluru supply problem kindly review refl,Water Supply,Municipal Corporation,Low,10
+routine complaint saket delhi blackout urgent need attention refl,Electricity,Electricity Board,Low,15
+please improve water shortage saket delhi minor suggestion refl,Water Supply,Municipal Corporation,Low,9
+since day nerul navi mumbai dump service completely refh,Sanitation & Garbage,Municipal Corporation,High,1
+since day kakadeo kanpur bus delay service completely refh,Public Transport,Transport Department,High,3
+average level road damage seen karol bagh delhi issue pending day refm,Roads & Infrastructure,PWD,Medium,4
+howrah maidan facing bad road continuously day urgent action needed refh,Roads & Infrastructure,PWD,High,3
+routine complaint behala kolkata bus delay urgent need attention refl,Public Transport,Transport Department,Low,13
+viman nagar pune severe portal status stuck day please fix urgently refh,Government Services,Revenue Department,High,2
+average level water seen whitefield bengaluru issue pending day refm,Water Supply,Municipal Corporation,Medium,3
+miyapur hyderabad broken road moderate regular last day refm,Roads & Infrastructure,PWD,Medium,4
+please improve verification completed ashok vihar delhi minor suggestion refl,Government Services,Revenue Department,Low,14
+possible improve electricity dwarka delhi issue low priority refl,Electricity,Electricity Board,Low,8
+average level electricity seen lalpur ranchi isssue pending day refm,Electricity,Electricity Board,Medium,4
+anna nagar chennai severe road damage day plese fix urgently refh,Roads & Infrastructure,PWD,High,2
+appointment slot dely working vaishali ghaziabad day situation high impact refh,Government Services,Revenue Department,High,2
+banashankari bengaluru severe broken road day plese fix urgently refh,Roads & Infrastructure,PWD,High,2
+doctor working anna nagar chennai day situation high impact refh,Healthcare,Health Department,High,1
+small inconvenience andheri east mumbai outage kindly review refl,Electricity,Electricity Board,Low,14
+small inconvenience salt lake kolkata application pending kindly review refl,Government Services,Revenue Department,Low,14
+average level transport issue seen dwarka delhi issue pending day refm,Public Transport,Transport Department,Medium,6
+transport style delay service salt lake kolkata due pipeline issue refm,Water Supply,Municipal Corporation,Medium,4
+please improve doctor aliganj lucknow minor suggestion refl,Healthcare,Health Department,Low,8
+since day shivajinagar pune appointment slot delay service completely refh,Government Services,Revenue Department,High,2
+saket delhi facing hospital issue continuously day urgnt action needed refh,Healthcare,Health Department,High,1
+plese improve power cut whitefield bengaluru minor suggestion refl,Electricity,Electricity Board,Low,14
+aliganj lucknow severe bad road day please fix urgently refh,Roads & Infrastructure,PWD,High,1
+civil line prayagraj pothole sometimes response slow delay refm,Roads & Infrastructure,PWD,Medium,5
+transport style delay service gachibowli hyderabad due hospital issue refm,Healthcare,Health Department,Medium,5
+small inconvenience thane west litter kindly review refl,Sanitation & Garbage,Municipal Corporation,Low,8
+whitefield bengaluru trash sometimes response slow delay refm,Sanitation & Garbage,Municipal Corporation,Medium,3

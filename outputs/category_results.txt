@@ -1,0 +1,16 @@
+Category Accuracy: 1.0000
+
+Classification Report:
+                        precision    recall  f1-score   support
+
+           Electricity       1.00      1.00      1.00        43
+   Government Services       1.00      1.00      1.00        43
+            Healthcare       1.00      1.00      1.00        42
+      Public Transport       1.00      1.00      1.00        43
+Roads & Infrastructure       1.00      1.00      1.00        43
+  Sanitation & Garbage       1.00      1.00      1.00        43
+          Water Supply       1.00      1.00      1.00        43
+
+              accuracy                           1.00       300
+             macro avg       1.00      1.00      1.00       300
+          weighted avg       1.00      1.00      1.00       300
