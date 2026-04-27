@@ -73,7 +73,10 @@ The system was evaluated against a **messy test dataset** containing typos, regi
 *   `frontend/`: Premium HTML/CSS/JS portals.
 *   `src/`: Core ML logic and standalone prediction scripts.
 *   `models/`: Serialized `.pkl` artifacts for Category and Priority models.
-*   `data/`: Training and messy test datasets.
+*   `data/`: Training and messy test datasets (**Self-generated** using `generate_improved_dataset.py`).
+
+> [!NOTE]
+> The dataset used for training and evaluation was synthesized specifically for this project to simulate real-world civic grievances with Indian regional context and linguistic noise.
 
 ---
 
