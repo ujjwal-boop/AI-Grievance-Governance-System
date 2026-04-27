@@ -1,46 +1,92 @@
-# AI Grievance Governance System
+# AI Grievance Governance System (Bharat Sovereign Edition)
 
-A robust machine learning backend to classify civic grievances by **Category** and **Priority**. It handles real-world, messy text, extracts temporal features (like "3 days"), and provides confidence scores for every prediction.
+A robust, full-stack machine learning solution for classifying and prioritizing civic grievances. This system handles "messy" real-world text (including Hinglish and regional slang), extracts temporal features, and provides an authoritative governance decision (Auto-Process vs. Ombudsman Review).
 
-## 🚀 Key Features
+## 🏛️ Bharat Sovereign Design
+The system features a premium frontend aesthetic inspired by official Government of India portals (NIC, MeitY).
+*   **Colors**: Tiranga Authority Palette (India Ink Navy, Kesari Saffron, India Green).
+*   **Typography**: Bilingual system (English primary, Hindi secondary) using Noto Serif and Noto Sans.
+*   **Identity**: Integrated Ashoka Chakra watermark, Tricolor accents, and official "Sarkari Mudra" (Stamp Style) status badges.
 
-*   **Semantic Understanding:** Uses `all-MiniLM-L6-v2` sentence embeddings instead of basic TF-IDF to truly understand the context of the complaint.
-*   **Duration Extraction:** Automatically identifies timeframes (e.g., "10 hours", "3 dino se") and factors them into Priority predictions.
-*   **Confidence Scores:** Employs `predict_proba` to tell you exactly how confident the model is (e.g., 98% vs 45%), allowing for human-in-the-loop review on vague inputs.
-*   **Robust Preprocessing:** Built-in spelling correction and synonym mapping for regional slang (`bijli` -> `electricity`).
+---
+
+## 🛠️ Technology Stack
+
+### 🔹 Core ML & NLP
+*   **Language**: Python 3.13+
+*   **NLP Engine**: `Sentence-Transformers` (`all-MiniLM-L6-v2`) for dense semantic embeddings.
+*   **Text Processing**: `NLTK` (WordNet Lemmatizer, POS Tagging) for deep linguistic cleaning.
+*   **Machine Learning**: `Scikit-learn` (Logistic Regression with balanced class weights).
+*   **Data Handling**: `Pandas` & `NumPy` for feature fusion and matrix operations.
+
+### 🔹 Backend Architecture
+*   **Framework**: `Flask` (RESTful API).
+*   **Database**: `SQLite` (Persistent storage for complaints and audit trails).
+*   **CORS**: `Flask-CORS` for seamless frontend integration.
+*   **Inference Wrapper**: A modular `inference.py` layer that pulls logic from the core ML pipeline without modifying training scripts.
+
+### 🔹 Frontend Design
+*   **Aesthetics**: Glassmorphism (Backdrop blur, translucent borders).
+*   **Interactions**: SVG-based spinning Ashoka Chakra (24-spoke) loading indicator.
+*   **UX**: Dual portals—**User Portal** (Anonymous submission) and **Ombudsman Dashboard** (Administrative review & Logs).
+
+---
+
+## 🧠 Algorithms & Logic
+
+### 1. Semantic Embedding (Sentence-Transformers)
+Instead of traditional TF-IDF (keyword-based), the system uses the `all-MiniLM-L6-v2` transformer. This allows the AI to understand that *"bijli nahi aa rahi"* and *"power outage"* represent the same intent by mapping them to similar points in a 384-dimensional vector space.
+
+### 2. Hybrid Feature Fusion
+The **Priority Model** doesn't just look at text; it combines:
+*   **Text Embedding**: 384D semantic vector.
+*   **Temporal Feature**: Extracted duration (e.g., "3 days" normalized to a float value).
+This fusion allows the model to prioritize a "3-day outage" higher than a "2-hour outage" even if the text is identical.
+
+### 3. Confidence & Governance Engine
+The system calculates a **Final Confidence Score** based on:
+*   **Winning Probability**: The `predict_proba()` result from the model.
+*   **Confidence Margin**: The gap between the 1st and 2nd best predictions (penalizes vague inputs).
+*   **Rule Overrides**: Hard-coded logic (e.g., any grievance > 2 days is automatically escalated to **High Priority**).
+
+**Governance Decisions**:
+*   `AUTO_PROCESS`: Confidence ≥ 75%
+*   `BORDERLINE`: Confidence 60% - 75%
+*   `SEND_TO_OMBUDSMAN`: Confidence < 60%
+
+---
 
 ## 📁 Project Structure
+*   `backend/`: Flask server, SQLite DB, and model inference wrapper.
+*   `frontend/`: Premium HTML/CSS/JS portals.
+*   `src/`: Core ML logic and standalone prediction scripts.
+*   `models/`: Serialized `.pkl` artifacts for Category and Priority models.
+*   `data/`: Training and messy test datasets.
 
-*   `data/` : Clean and messy datasets used for training and evaluation.
-*   `models/` : Serialized Logistic Regression models (`category_model.pkl` and `priority_model.pkl`).
-*   `src/train_predict_improved.py` : Script to train models, generate embeddings, and evaluate accuracy.
-*   `src/predict.py` : Standalone prediction script to run inference on new text.
+---
 
-## 💻 How to Install
+## 🚀 How to Run
 
-1. Clone or download this project.
-2. Ensure you have Python 3.9+ installed.
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## 🏃 How to Run
-
-To train the models from scratch:
+### 1. Install Dependencies
 ```bash
-python src/train_predict_improved.py
+pip install -r requirements.txt
 ```
 
-To run a quick prediction test:
+### 2. Run the Full-Stack App
+**Start Backend**:
 ```bash
-python src/predict.py
+cd backend
+python app.py
 ```
+**Open Frontend**:
+Open `frontend/index.html` (User) or `frontend/ombudsman.html` (Officer) in any modern browser.
 
-## 📊 Example Output
-```text
-  Raw Input   : bijli nahi aa rahi since 3 days
-  Cleaned     : electricity nahi aa rahi since day | Extracted Duration: 3.0 days
-  Category    : Electricity (Confidence: 0.98)
-  Priority    : High (Confidence: 1.00) -> (Rule Override: Duration > 2 days)
-```
+### 3. Training & CLI
+*   **Retrain Models**: `python src/train_predict_improved.py`
+*   **Interactive CLI**: `python src/predict.py`
+
+---
+
+## 🛡️ Credits
+Designed & Developed by **Antigravity AI** | Built with an Indian Institutional Design Language.
+© 2024 Ministry of Governance, Government of India.
