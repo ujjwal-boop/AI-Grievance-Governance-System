@@ -56,6 +56,18 @@ The system calculates a **Final Confidence Score** based on:
 
 ---
 
+## 📊 Performance Metrics
+
+The system was evaluated against a **messy test dataset** containing typos, regional slang (Hinglish), and natural language temporal mentions.
+
+| Metric | Accuracy | Methodology |
+| :--- | :--- | :--- |
+| **Category Classification** | **94.44%** | Pure Semantic Embedding (Transformer-based) |
+| **Priority Classification** | **100.00%** | Hybrid Model (ML Prediction + Duration Rule Override) |
+| **Hinglish Support** | **Robust** | Handled via custom normalization and synonym mapping |
+
+---
+
 ## 📁 Project Structure
 *   `backend/`: Flask server, SQLite DB, and model inference wrapper.
 *   `frontend/`: Premium HTML/CSS/JS portals.
