@@ -342,12 +342,27 @@ def predict_with_confidence(complaint_text: str):
 #  STEP 4: Test Execution
 # ----------------------------------------------------------------
 if __name__ == "__main__":
-    test_examples = [
-        "bijli nahi aa rahi since 3 days",
-        "kachra bahut zyada hai",
-        "pani problem in my area",
-        "sadak pe gadda hai"
-    ]
-    for text in test_examples:
-        predict_with_confidence(text)
-    print("\n[Done] Prediction pipeline with confidence scores complete.")
+    print("\n" + "=" * 60)
+    print("  INTERACTIVE GRIEVANCE PREDICTION")
+    print("=" * 60)
+    print("  Type your grievance below and press Enter.")
+    print("  Example: 'Electricity is cut since 2 days'")
+    print("  (Type 'exit' or 'q' to quit)")
+    print("-" * 60)
+
+    while True:
+        try:
+            user_input = input("\nEnter Grievance: ").strip()
+        except EOFError:
+            break
+
+        if user_input.lower() in ["exit", "q", "quit"]:
+            print("\nExiting system. Goodbye!")
+            break
+
+        if not user_input:
+            continue
+
+        predict_with_confidence(user_input)
+
+    print("\n[Done] Prediction pipeline closed.")

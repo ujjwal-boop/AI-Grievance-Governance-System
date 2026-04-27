@@ -1,0 +1,426 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;700&family=Noto+Serif:wght@700&family=Baloo+2:wght@400;500;700&display=swap');
+
+:root {
+    --india-ink: #0c1220;
+    --surface-dark: #111827;
+    --kesari-saffron: #FF9933;
+    --india-green: #138808;
+    --chakra-blue: #000080;
+    --ivory-text: #f0ede6;
+    --steel-blue: #8fa3bf;
+    
+    /* Status Colors */
+    --status-approved: #1a6b35;
+    --status-pending: #b35c00;
+    --status-escalated: #8b1a1a;
+    
+    --glass-border: rgba(255, 153, 51, 0.15);
+    --divider-saffron: rgba(255, 153, 51, 0.2);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--india-ink);
+    color: var(--ivory-text);
+    font-family: 'Noto Sans', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    overflow-x: hidden;
+}
+
+/* --- Tricolor Top Bar --- */
+.tricolor-stripe {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 9px;
+    display: flex;
+    z-index: 2000;
+}
+.stripe-saffron { background: #FF9933; flex: 1; }
+.stripe-white { background: #FFFFFF; flex: 1; }
+.stripe-green { background: #138808; flex: 1; }
+
+/* --- Sidebar Design (Sarkari Shashan) --- */
+.sidebar {
+    width: 256px;
+    background-color: var(--chakra-blue);
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    z-index: 1000;
+    box-shadow: 4px 0 15px rgba(0,0,0,0.3);
+}
+
+.crest-area {
+    padding: 2.5rem 1.5rem 1.5rem;
+    text-align: center;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.crest-logo {
+    width: 60px;
+    height: auto;
+    filter: brightness(0) invert(1);
+    margin-bottom: 0.75rem;
+}
+
+.govt-title {
+    font-family: 'Baloo 2', cursive;
+    font-size: 1.1rem;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+.govt-subtitle {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--steel-blue);
+    margin-top: 0.25rem;
+}
+
+.satyamev {
+    font-family: 'Baloo 2', cursive;
+    font-size: 0.65rem;
+    color: var(--kesari-saffron);
+    margin-top: 0.5rem;
+}
+
+.nav-links {
+    margin-top: 2rem;
+    flex-grow: 1;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    color: var(--ivory-text);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+    border-left: 3px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.nav-item.active {
+    border-left-color: var(--kesari-saffron);
+    color: var(--kesari-saffron);
+    background: rgba(255,153,51,0.05);
+}
+
+.nav-item:hover:not(.active) {
+    background: rgba(255,255,255,0.05);
+}
+
+.nav-label-hindi {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--steel-blue);
+    font-weight: 400;
+}
+
+/* --- Main Content Layout --- */
+.main-wrapper {
+    margin-left: 256px;
+    width: calc(100% - 256px);
+    position: relative;
+}
+
+/* Ashoka Chakra Watermark */
+.watermark {
+    position: fixed;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 600px;
+    opacity: 0.04;
+    z-index: -1;
+    pointer-events: none;
+}
+
+.top-bar {
+    height: 60px;
+    background-color: var(--chakra-blue);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    margin-top: 9px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.portal-name {
+    font-family: 'Noto Serif', serif;
+    font-size: 1.25rem;
+    letter-spacing: 0.05em;
+}
+
+.officer-badge {
+    background: rgba(255,255,255,0.1);
+    padding: 0.4rem 1rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.officer-rank {
+    color: var(--kesari-saffron);
+    font-weight: 700;
+    border-right: 1px solid rgba(255,255,255,0.2);
+    padding-right: 0.5rem;
+}
+
+/* --- Content Styling --- */
+.content-container {
+    padding: 2.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.breadcrumb {
+    font-size: 0.85rem;
+    color: var(--steel-blue);
+    margin-bottom: 2rem;
+}
+
+.breadcrumb-hindi {
+    font-family: 'Baloo 2', cursive;
+}
+
+/* KPI Strip */
+.kpi-strip {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.kpi-card {
+    background: var(--surface-dark);
+    padding: 1.5rem;
+    border-radius: 4px;
+    border: 1px solid var(--glass-border);
+    position: relative;
+}
+
+.kpi-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(to right, var(--kesari-saffron), transparent);
+}
+
+.kpi-label {
+    font-size: 0.75rem;
+    color: var(--steel-blue);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.5rem;
+}
+
+.kpi-value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--kesari-saffron);
+}
+
+/* Cards & Surfaces */
+.govt-card {
+    background: #0d1a2e;
+    border: 1px solid var(--glass-border);
+    border-radius: 4px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.section-divider {
+    height: 1px;
+    background: var(--divider-saffron);
+    margin: 1.5rem 0;
+}
+
+/* Forms (NIC Standard) */
+.form-group {
+    margin-bottom: 2rem;
+}
+
+.form-label {
+    display: block;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+}
+
+.form-label .hindi {
+    font-family: 'Baloo 2', cursive;
+    font-size: 0.8rem;
+    color: var(--steel-blue);
+    margin-left: 0.5rem;
+    text-transform: none;
+    letter-spacing: normal;
+}
+
+.nic-input {
+    width: 100%;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid var(--glass-border);
+    padding: 0.75rem 0;
+    color: var(--ivory-text);
+    font-size: 1.1rem;
+    transition: border-color 0.3s ease;
+}
+
+.nic-input:focus {
+    outline: none;
+    border-bottom-color: var(--kesari-saffron);
+}
+
+textarea.nic-input {
+    height: 120px;
+    resize: none;
+}
+
+/* Buttons */
+.btn-bharti {
+    background: var(--kesari-saffron);
+    color: var(--india-ink);
+    border: none;
+    padding: 0.8rem 2.5rem;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 2px;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    transition: opacity 0.2s ease;
+}
+
+.btn-bharti .hindi {
+    font-family: 'Baloo 2', cursive;
+    font-weight: 500;
+}
+
+.btn-bharti:hover {
+    opacity: 0.9;
+}
+
+/* Tables (Sarkari Style) */
+.govt-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.govt-table th {
+    background: rgba(255,255,255,0.03);
+    text-align: left;
+    padding: 1rem;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--steel-blue);
+    border-bottom: 1px solid var(--glass-border);
+}
+
+.govt-table td {
+    padding: 1.25rem 1rem;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    font-size: 0.9rem;
+}
+
+.govt-table tr:hover {
+    background: rgba(255,255,255,0.03);
+    border-left: 3px solid var(--kesari-saffron);
+}
+
+/* Status Badges (Rubber Stamp Style) */
+.stamp-badge {
+    display: inline-block;
+    padding: 0.4rem 0.8rem;
+    border: 2px solid currentColor;
+    font-weight: 800;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transform: rotate(-1deg);
+}
+
+.stamp-approved { color: var(--status-approved); }
+.stamp-pending { color: var(--status-pending); }
+.stamp-escalated { color: #ff4d4d; border-color: var(--status-escalated); color: var(--status-escalated); }
+
+/* AI Loader (Ashoka Chakra Spin) */
+@keyframes chakra-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.chakra-loader {
+    width: 48px;
+    height: 48px;
+    animation: chakra-spin 40s linear infinite; /* 1.5 rpm */
+}
+
+/* Success Banner */
+.success-banner {
+    background: var(--india-green);
+    padding: 1.5rem;
+    color: white;
+    text-align: center;
+    margin-bottom: 2rem;
+    border-radius: 4px;
+    display: none;
+}
+
+.ref-num {
+    font-family: 'Courier New', monospace;
+    font-weight: 700;
+    background: rgba(0,0,0,0.2);
+    padding: 0.2rem 0.5rem;
+    margin-left: 0.5rem;
+}
+
+/* Footer */
+footer {
+    padding: 2rem;
+    background: var(--india-ink);
+    border-top: 1px solid var(--glass-border);
+    margin-top: 4rem;
+    text-align: center;
+    position: relative;
+}
+
+.footer-stripe {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: linear-gradient(to right, #FF9933, #FFFFFF, #138808);
+}
+
+.footer-text {
+    font-size: 0.8rem;
+    color: var(--steel-blue);
+    line-height: 1.6;
+}

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>लोकपाल डैशबोर्ड | AI Grievance Governance System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Tricolor Stripe -->
+    <div class="tricolor-stripe">
+        <div class="stripe-saffron"></div>
+        <div class="stripe-white"></div>
+        <div class="stripe-green"></div>
+    </div>
+
+    <!-- Persistent Sidebar -->
+    <aside class="sidebar">
+        <div class="crest-area">
+            <div class="govt-title">भारत सरकार</div>
+            <div class="govt-subtitle">Government of India</div>
+            <div class="satyamev">सत्यमेव जयते</div>
+        </div>
+        
+        <nav class="nav-links">
+            <a href="index.html" class="nav-item">
+                <span>USER PORTAL<br><span class="nav-label-hindi">उपयोगकर्ता पोर्टल</span></span>
+            </a>
+            <a href="ombudsman.html" class="nav-item active">
+                <span>DASHBOARD<br><span class="nav-label-hindi">डैशबोर्ड</span></span>
+            </a>
+        </nav>
+
+        <div style="padding: 1.5rem; font-size: 0.7rem; color: var(--steel-blue); border-top: 1px solid rgba(255,255,255,0.1);">
+            OFFICER ID: 2948-ADMIN<br>
+            CADRE: NIC-HQ
+        </div>
+    </aside>
+
+    <main class="main-wrapper">
+        <!-- Watermark -->
+        <svg class="watermark" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="100" cy="100" r="90" fill="none" stroke="currentColor" stroke-width="2"/>
+            <circle cx="100" cy="100" r="15" fill="none" stroke="currentColor" stroke-width="2"/>
+            <g id="spokes">
+                <line x1="100" y1="10" x2="100" y2="85" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(15 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(30 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(45 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(60 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(75 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(90 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(105 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(120 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(135 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(150 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(165 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(180 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(195 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(210 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(225 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(240 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(255 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(270 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(285 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(300 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(315 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(330 100 100)" stroke="currentColor" stroke-width="1.5"/>
+                <line x1="100" y1="10" x2="100" y2="85" transform="rotate(345 100 100)" stroke="currentColor" stroke-width="1.5"/>
+            </g>
+        </svg>
+
+        <header class="top-bar">
+            <div class="portal-name">AI Grievance Governance System | <span class="hindi">एआई शिकायत शासन प्रणाली</span></div>
+        </header>
+
+        <div class="content-container">
+            <div class="breadcrumb">
+                <span class="breadcrumb-hindi">मुखपृष्ठ > शिकायत प्रबंधन</span> > समीक्षा
+            </div>
+
+            <div class="kpi-strip">
+                <div class="kpi-card">
+                    <div class="kpi-label">TOTAL / कुल</div>
+                    <div id="statTotal" class="kpi-value">124</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-label">PENDING / लंबित</div>
+                    <div id="statPending" class="kpi-value">18</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-label">RESOLVED / निराकृत</div>
+                    <div id="statResolved" class="kpi-value">106</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-label">AVG TIME / औसत समय</div>
+                    <div class="kpi-value">2.4<span style="font-size: 1rem;">D</span></div>
+                </div>
+            </div>
+
+            <!-- Pending Review Section -->
+            <div class="govt-card">
+                <h2 style="font-family: 'Noto Serif', serif; margin-bottom: 1.5rem;">Pending Human Review / <span class="hindi">मानवीय समीक्षा लंबित</span></h2>
+                <div class="section-divider"></div>
+                
+                <table class="govt-table">
+                    <thead>
+                        <tr>
+                            <th style="width: 35%;">COMPLAINT TEXT / विवरण</th>
+                            <th>AI CATEGORY / विभाग</th>
+                            <th>AI PRIORITY / प्राथमिकता</th>
+                            <th>CONF / विश्वास</th>
+                            <th>ACTIONS / कार्यवाही</th>
+                        </tr>
+                    </thead>
+                    <tbody id="pendingBody">
+                        <!-- Loaded via JS -->
+                    </tbody>
+                </table>
+                <div id="pendingEmpty" style="text-align: center; padding: 2rem; color: var(--steel-blue); display: none;">
+                    No pending complaints requiring manual review.
+                </div>
+            </div>
+
+            <!-- Logs Section -->
+            <div class="govt-card" style="background: rgba(15, 23, 42, 0.4);">
+                <h2 style="font-family: 'Noto Serif', serif; margin-bottom: 1.5rem;">Action Log / <span class="hindi">कार्यवाही विवरण</span></h2>
+                <div class="section-divider"></div>
+                
+                <table class="govt-table">
+                    <thead>
+                        <tr>
+                            <th style="width: 35%;">REF ID & TEXT / संदर्भ और पाठ</th>
+                            <th>CATEGORY / श्रेणी</th>
+                            <th>PRIORITY / प्राथमिकता</th>
+                            <th>DECISION / निर्णय</th>
+                            <th>STATUS / स्थिति</th>
+                        </tr>
+                    </thead>
+                    <tbody id="logsBody">
+                        <!-- Loaded via JS -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <footer>
+            <div class="footer-stripe"></div>
+            <div class="footer-text">
+                Designed & Developed by NIC | राष्ट्रीय सूचना विज्ञान केंद्र<br>
+                © 2024 Ministry of Governance, Government of India<br>
+                <span style="font-size: 0.7rem;">GIGW Compliant | Screen Reader Access | Satyamev Jayate</span>
+            </div>
+        </footer>
+    </main>
+
+    <script src="script.js"></script>
+    <script>
+        window.onload = () => {
+            loadPending();
+            loadLogs();
+        };
+    </script>
+</body>
+</html>
